@@ -1,0 +1,54 @@
+{
+  "jf": {
+    "shadow": {
+      "neutral": {
+        "type": "color",
+        "value": "rgba({black}, 0.4)"
+      },
+      "primary": {
+        "type": "color",
+        "value": "rgba({jf.scheme.primary}, 0.5)"
+      },
+      "secondary": {
+        "type": "color",
+        "value": "rgba({jf.scheme.secondary}, 0.5)"
+      },
+      "success": {
+        "type": "color",
+        "value": "rgba({jf.scheme.success}, 0.5)"
+      },
+      "critical": {
+        "type": "color",
+        "value": "rgba({jf.scheme.critical}, 0.5)"
+      },
+      "warning": {
+        "type": "color",
+        "value": "rgba({jf.scheme.warning}, 0.5)"
+      },
+      "dataviz1": {
+        "type": "color",
+        "value": "rgba({jf.scheme.dataviz1}, 0.5)"
+      },
+      "dataviz2": {
+        "type": "color",
+        "value": "rgba({jf.scheme.dataviz2}, 0.5)"
+      },
+      "dataviz3": {
+        "type": "color",
+        "value": "rgba({jf.scheme.dataviz3}, 0.5)"
+      },
+      "dataviz4": {
+        "type": "color",
+        "value": "rgba({jf.scheme.dataviz4}, 0.5)"
+      },
+      "dataviz5": {
+        "type": "color",
+        "value": "rgba({jf.scheme.dataviz5}, 0.5)"
+      },
+      "dataviz6": {
+        "type": "color",
+        "value": "rgba({jf.scheme.dataviz6}, 0.5)"
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "jf": {
-    "mod": {
-      "bd": {
+    "mod-ratio": {
+      "bd-color": {
         "neutral": {
           "weak": {
             "type": "other",
@@ -38,7 +38,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.neutral.weak} ",
+                  "value": "{jf.mod-ratio.bd-color.neutral.weak} ",
                   "space": "srgb"
                 }
               }
@@ -51,7 +51,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.neutral.moderate} ",
+                  "value": "{jf.mod-ratio.bd-color.neutral.moderate} ",
                   "space": "srgb"
                 }
               }
@@ -64,7 +64,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.neutral.strong} ",
+                  "value": "{jf.mod-ratio.bd-color.neutral.strong} ",
                   "space": "srgb"
                 }
               }
@@ -77,7 +77,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.neutral.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.neutral.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -92,7 +92,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -105,7 +105,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -120,7 +120,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -133,7 +133,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -148,7 +148,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -161,7 +161,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -176,7 +176,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -189,7 +189,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -204,7 +204,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -217,7 +217,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -232,7 +232,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -245,7 +245,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -260,7 +260,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -273,7 +273,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -288,7 +288,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -301,7 +301,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -316,7 +316,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -329,7 +329,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -344,7 +344,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -357,7 +357,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }
@@ -372,7 +372,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.mod.bd.regular}",
+                  "value": "{jf.mod-ratio.bd-color.regular}",
                   "space": "srgb"
                 }
               }
@@ -385,7 +385,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.mod.bd.contrast} ",
+                  "value": "{jf.mod-ratio.bd-color.contrast} ",
                   "space": "srgb"
                 }
               }

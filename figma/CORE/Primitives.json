@@ -172,68 +172,6 @@
         "value": "1000"
       }
     },
-    "mod": {
-      "50": {
-        "type": "other",
-        "value": "0.05"
-      },
-      "100": {
-        "type": "other",
-        "value": "0.1"
-      },
-      "150": {
-        "type": "other",
-        "value": "0.15"
-      },
-      "200": {
-        "type": "other",
-        "value": "0.2"
-      },
-      "250": {
-        "type": "other",
-        "value": "0.25"
-      },
-      "300": {
-        "type": "other",
-        "value": "0.3"
-      },
-      "350": {
-        "type": "other",
-        "value": "0.35"
-      },
-      "400": {
-        "type": "other",
-        "value": "0.4"
-      },
-      "450": {
-        "type": "other",
-        "value": "0.45"
-      },
-      "500": {
-        "type": "other",
-        "value": "0.5"
-      },
-      "600": {
-        "type": "other",
-        "value": "0.6"
-      },
-      "700": {
-        "type": "other",
-        "value": "0.7"
-      },
-      "800": {
-        "type": "other",
-        "value": "0.8"
-      },
-      "900": {
-        "type": "other",
-        "value": "0.9"
-      },
-      "950": {
-        "type": "other",
-        "value": "0.9"
-      }
-    },
     "font-size": {
       "0": {
         "type": "fontSizes",

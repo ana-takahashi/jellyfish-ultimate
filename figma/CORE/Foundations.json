@@ -727,7 +727,7 @@
       }
     },
     "state": {
-      "mod": {
+      "mod-ratio": {
         "hover": {
           "type": "other",
           "value": "0.25"

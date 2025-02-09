@@ -2,9 +2,9 @@
   "tokenSetOrder": [
     "CORE/Primitives",
     "CORE/Foundations",
-    "CORE_COMPS/Buttons",
     "ANA-TAKAHASHI/Primitives",
     "ANA-TAKAHASHI/Foundations/Typeset",
+    "ANA-TAKAHASHI/Foundations/Assets",
     "ANA-TAKAHASHI/Foundations/Modes/Light/Backgrounds",
     "ANA-TAKAHASHI/Foundations/Modes/Light/Foregrounds",
     "ANA-TAKAHASHI/Foundations/Modes/Light/Borders",
@@ -23,11 +23,12 @@
     "THEME/States",
     "THEME/Shadows",
     "THEME/Typography",
-    "DESIGN_ONLY/Platforms/mobile",
-    "DESIGN_ONLY/Platforms/tablet",
-    "DESIGN_ONLY/Platforms/desktop-md",
-    "DESIGN_ONLY/Platforms/desktop-xl",
-    "DESIGN_ONLY/ANA-TAKAHASHI/Foundations/TypeCalc",
-    "DESIGN_ONLY/ANA-TAKAHASHI/Foundations/Typeset"
+    "FIGMA_ONLY/Platforms/mobile",
+    "FIGMA_ONLY/Platforms/tablet",
+    "FIGMA_ONLY/Platforms/desktop-md",
+    "FIGMA_ONLY/Platforms/desktop-xl",
+    "FIGMA_ONLY/ANA-TAKAHASHI/Foundations/TypeCalc",
+    "FIGMA_ONLY/ANA-TAKAHASHI/Foundations/Typeset",
+    "CORE_COMPS/Buttons"
   ]
 }

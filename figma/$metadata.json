@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "foundations/colors",
+    "foundations/dimensions",
+    "foundations/grids",
+    "foundations/layouts"
+  ]
+}

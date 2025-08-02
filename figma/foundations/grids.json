@@ -1,0 +1,60 @@
+{
+  "jf": {
+    "grid": {
+      "cols": {
+        "1": {
+          "value": "repeat(1, 1fr)",
+          "type": "other",
+          "description": "1 column"
+        },
+        "2": {
+          "value": "repeat(2, 1fr)",
+          "type": "other",
+          "description": "2 columns"
+        },
+        "3": {
+          "value": "repeat(3, 1fr)",
+          "type": "other",
+          "description": "3 columns"
+        },
+        "4": {
+          "value": "repeat(4, 1fr)",
+          "type": "other",
+          "description": "3 columns"
+        },
+        "5": {
+          "value": "repeat(5, 1fr)",
+          "type": "other",
+          "description": "5 columns"
+        },
+        "6": {
+          "value": "repeat(6, 1fr)",
+          "type": "other",
+          "description": "5 columns"
+        }
+      },
+      "gap": {
+        "none": {
+          "value": "0",
+          "type": "spacing",
+          "description": "No gap between cols."
+        },
+        "sm": {
+          "value": "{jf.dimension.2x}",
+          "type": "spacing",
+          "description": "Small gap between cols."
+        },
+        "md": {
+          "value": "{jf.dimension.3x}",
+          "type": "spacing",
+          "description": "Medium gap between cols."
+        },
+        "lg": {
+          "value": "{jf.dimension.4x}",
+          "type": "spacing",
+          "description": "Large gap between cols."
+        }
+      }
+    }
+  }
+}

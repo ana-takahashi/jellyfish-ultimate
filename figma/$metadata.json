@@ -1,34 +1,8 @@
 {
   "tokenSetOrder": [
-    "CORE/Primitives",
-    "CORE/Foundations",
-    "ANA-TAKAHASHI/Primitives",
-    "ANA-TAKAHASHI/Foundations/Typeset",
-    "ANA-TAKAHASHI/Foundations/Assets",
-    "ANA-TAKAHASHI/Foundations/Modes/Light/Backgrounds",
-    "ANA-TAKAHASHI/Foundations/Modes/Light/Foregrounds",
-    "ANA-TAKAHASHI/Foundations/Modes/Light/Borders",
-    "ANA-TAKAHASHI/Foundations/Modes/Light/Illustrations",
-    "ANA-TAKAHASHI/Foundations/Modes/Light/Shadows",
-    "ANA-TAKAHASHI/Foundations/Modes/Dark/Backgrounds",
-    "ANA-TAKAHASHI/Foundations/Modes/Dark/Foregrounds",
-    "ANA-TAKAHASHI/Foundations/Modes/Dark/Borders",
-    "ANA-TAKAHASHI/Foundations/Modes/Dark/Illustrations",
-    "ANA-TAKAHASHI/Foundations/Modes/Dark/Shadows",
-    "ANA-TAKAHASHI/Comps/Button",
-    "ANA-TAKAHASHI/Comps/Forms",
-    "THEME/Backgrounds",
-    "THEME/Foregrounds",
-    "THEME/Borders",
-    "THEME/States",
-    "THEME/Shadows",
-    "THEME/Typography",
-    "FIGMA_ONLY/Platforms/mobile",
-    "FIGMA_ONLY/Platforms/tablet",
-    "FIGMA_ONLY/Platforms/desktop-md",
-    "FIGMA_ONLY/Platforms/desktop-xl",
-    "FIGMA_ONLY/ANA-TAKAHASHI/Foundations/TypeCalc",
-    "FIGMA_ONLY/ANA-TAKAHASHI/Foundations/Typeset",
-    "CORE_COMPS/Buttons"
+    "foundations/colors",
+    "foundations/dimensions",
+    "foundations/grids",
+    "layouts"
   ]
 }

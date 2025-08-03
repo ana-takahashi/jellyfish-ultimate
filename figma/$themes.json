@@ -11,17 +11,7 @@
       "jf.shadow.2xl": "S:7a40d7e29c269339b7ef43a4fda742d9d22b6df6,"
     },
     "selectedTokenSets": {
-      "foundations/animations": "enabled",
-      "foundations/aspectRatios": "enabled",
-      "foundations/borderRadius": "enabled",
-      "foundations/colors": "enabled",
-      "foundations/dimensions": "enabled",
-      "foundations/grids": "enabled",
-      "foundations/spacing": "enabled",
-      "foundations/layouts": "enabled",
-      "themes/light": "enabled",
-      "foundations/typography": "enabled",
-      "foundations/opacity": "enabled"
+      "themes/light": "enabled"
     },
     "$figmaVariableReferences": {
       "jf.bg.default.enabled": "7ed59a969731a82cba7faf0f14d404e608c0aead",
@@ -309,9 +299,9 @@
       "jf.container.paddings.compact": "257cd0354754f5e0cac2f157fb97eb32562c0bd6",
       "jf.container.paddings.moderate": "e765bcc1635c8227204869e378cd1ea13e89fd55"
     },
-    "group": "themes",
     "$figmaCollectionId": "VariableCollectionId:42:570",
-    "$figmaModeId": "42:0"
+    "$figmaModeId": "42:0",
+    "group": "themes"
   },
   {
     "id": "c64f16a092f92406eb99488189fa10fcd50ad309",
@@ -325,19 +315,8 @@
       "jf.shadow.2xl": "S:7a40d7e29c269339b7ef43a4fda742d9d22b6df6,"
     },
     "selectedTokenSets": {
-      "foundations/animations": "source",
-      "foundations/aspectRatios": "source",
-      "foundations/borderRadius": "source",
-      "foundations/colors": "source",
-      "foundations/dimensions": "source",
-      "foundations/grids": "source",
-      "foundations/spacing": "source",
-      "foundations/typography": "source",
-      "foundations/opacity": "source",
-      "foundations/layouts": "source",
       "themes/dark": "enabled"
     },
-    "group": "themes",
     "$figmaCollectionId": "VariableCollectionId:42:570",
     "$figmaModeId": "42:1",
     "$figmaVariableReferences": {
@@ -403,6 +382,24 @@
       "jf.fg.success": "baf0eefac048222226dcda42d171410990ef5f52",
       "jf.fg.warning": "bf076e7d7155d414eef51aa931c1f153802e2e5b",
       "jf.fg.critical": "bdfbb4bcee129f793bf3e20668b75838a29f3f7c"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "26b55424cf62ce95113781ef709261063d752bb3",
+    "name": "foundations",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations/animations": "enabled",
+      "foundations/aspectRatios": "enabled",
+      "foundations/borderRadius": "enabled",
+      "foundations/colors": "enabled",
+      "foundations/dimensions": "enabled",
+      "foundations/grids": "enabled",
+      "foundations/spacing": "enabled",
+      "foundations/typography": "enabled",
+      "foundations/opacity": "enabled",
+      "foundations/layouts": "enabled"
     }
   }
 ]

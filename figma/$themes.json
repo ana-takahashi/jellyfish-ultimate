@@ -14,9 +14,9 @@
       "foundations/layouts": "enabled",
       "themes/light": "enabled",
       "foundations/typography": "enabled",
-      "components/controlBase": "disabled"
+      "foundations/opacity": "enabled"
     },
-    "group": "themes",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "themes"
   }
 ]

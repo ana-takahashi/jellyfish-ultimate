@@ -8,6 +8,7 @@
     "foundations/grids",
     "foundations/spacing",
     "foundations/typography",
+    "foundations/opacity",
     "foundations/layouts",
     "themes/light",
     "components/controlBase"

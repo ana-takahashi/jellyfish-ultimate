@@ -23,9 +23,17 @@
       }
     },
     "container": {
-      "spacing": {
+      "paddings": {
         "narrow": {
           "value": "{jf.dimension.1x}",
+          "type": "spacing"
+        },
+        "compact": {
+          "value": "{jf.dimension.2x}",
+          "type": "spacing"
+        },
+        "moderate": {
+          "value": "{jf.dimension.3x}",
           "type": "spacing"
         }
       }

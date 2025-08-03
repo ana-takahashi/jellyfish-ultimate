@@ -1,0 +1,22 @@
+{
+  "jf": {
+    "animation": {
+      "spin": {
+        "value": "spin 1s linear infinite",
+        "type": "other"
+      },
+      "ping": {
+        "value": "ping 1s cubic-bezier(0, 0, 0.2, 1) infinite",
+        "type": "other"
+      },
+      "pulse": {
+        "value": "pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite",
+        "type": "other"
+      },
+      "bounce": {
+        "value": "bounce 1s infinite",
+        "type": "other"
+      }
+    }
+  }
+}

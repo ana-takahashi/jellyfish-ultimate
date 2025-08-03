@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "4591037a49ee8a863646476c7ec87e2b92ca6bb8",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundations/animations": "enabled",
+      "foundations/aspectRatios": "enabled",
+      "foundations/borderRadius": "enabled",
+      "foundations/colors": "enabled",
+      "foundations/dimensions": "enabled",
+      "foundations/grids": "enabled",
+      "foundations/spacing": "enabled",
+      "foundations/layouts": "enabled",
+      "themes/light": "enabled",
+      "foundations/typography": "enabled",
+      "components/controlBase": "disabled"
+    },
+    "group": "themes",
+    "$figmaVariableReferences": {}
+  }
+]

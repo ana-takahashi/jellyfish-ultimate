@@ -1,8 +1,15 @@
 {
   "tokenSetOrder": [
+    "foundations/animations",
+    "foundations/aspectRatios",
+    "foundations/borderRadius",
     "foundations/colors",
     "foundations/dimensions",
     "foundations/grids",
-    "foundations/layouts"
+    "foundations/spacing",
+    "foundations/typography",
+    "foundations/layouts",
+    "themes/light",
+    "components/controlBase"
   ]
 }

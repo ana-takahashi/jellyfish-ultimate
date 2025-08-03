@@ -1,0 +1,26 @@
+{
+  "jf": {
+    "aspect-ratio": {
+      "square": {
+        "value": "1 / 1",
+        "type": "other"
+      },
+      "landscape": {
+        "value": "4 / 3",
+        "type": "other"
+      },
+      "portrait": {
+        "value": "3 / 4",
+        "type": "other"
+      },
+      "wide": {
+        "value": "16 / 9",
+        "type": "other"
+      },
+      "ultrawide": {
+        "value": "18 / 5",
+        "type": "other"
+      }
+    }
+  }
+}

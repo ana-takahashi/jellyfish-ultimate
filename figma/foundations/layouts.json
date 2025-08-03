@@ -21,6 +21,14 @@
         "value": "1536px",
         "type": "sizing"
       }
+    },
+    "container": {
+      "spacing": {
+        "narrow": {
+          "value": "{jf.dimension.1x}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }

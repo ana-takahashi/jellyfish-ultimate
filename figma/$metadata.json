@@ -11,6 +11,7 @@
     "foundations/opacity",
     "foundations/layouts",
     "themes/light",
+    "themes/dark",
     "components/controlBase"
   ]
 }

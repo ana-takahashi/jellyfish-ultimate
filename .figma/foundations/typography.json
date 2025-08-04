@@ -1,0 +1,104 @@
+{
+  "jf": {
+    "font-family": {
+      "heading": {
+        "value": "Figtree",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Figtree",
+        "type": "fontFamilies"
+      },
+      "mono": {
+        "value": "Fira Code",
+        "type": "fontFamilies"
+      }
+    },
+    "font-size": {
+      "h1": {
+        "value": "clamp(0.4972rem, 0.5307rem + -0.035vw, 0.5202rem)",
+        "type": "other"
+      },
+      "h2": {
+        "value": "clamp(0.5718rem, 0.5914rem + -0.0205vw, 0.5853rem)",
+        "type": "other"
+      },
+      "h3": {
+        "value": "clamp(0.6575rem, 0.6589rem + -0.0014vw, 0.6584rem)",
+        "type": "other"
+      },
+      "h4": {
+        "value": "clamp(0.7407rem, 0.7337rem + 0.0233vw, 0.7561rem)",
+        "type": "other"
+      },
+      "h5": {
+        "value": "clamp(0.9375rem, 0.9091rem + 0.0947vw, 1rem)",
+        "type": "other"
+      },
+      "h6": {
+        "value": "clamp(1.0547rem, 1.0114rem + 0.1444vw, 1.15rem)",
+        "type": "other"
+      },
+      "body": {
+        "xs": {
+          "value": "clamp(1.1865rem, 1.1247rem + 0.206vw, 1.3225rem)",
+          "type": "other"
+        },
+        "sm": {
+          "value": "clamp(1.0547rem, 1.0114rem + 0.1444vw, 1.15rem)",
+          "type": "other"
+        },
+        "md": {
+          "value": "clamp(0.9375rem, 0.9091rem + 0.0947vw, 1rem)",
+          "type": "other"
+        },
+        "lg": {
+          "value": "clamp(0.8333rem, 0.8169rem + 0.0549vw, 0.8696rem)",
+          "type": "other"
+        }
+      }
+    },
+    "font-weight": {
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "short": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "moderate": {
+        "value": "160%",
+        "type": "lineHeights"
+      },
+      "tall": {
+        "value": "180%",
+        "type": "lineHeights"
+      }
+    },
+    "letter-spacing": {
+      "compact": {
+        "value": "-0.05em",
+        "type": "letterSpacing"
+      },
+      "moderate": {
+        "value": "0.025em",
+        "type": "letterSpacing"
+      },
+      "wide": {
+        "value": "0.15em",
+        "type": "letterSpacing"
+      }
+    }
+  }
+}

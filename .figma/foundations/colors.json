@@ -2,7 +2,7 @@
   "jf": {
     "color": {
       "accent": {
-        "value": "#5037e1",
+        "value": "#6553f3",
         "type": "color"
       },
       "neutral": {
@@ -64,7 +64,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -77,7 +77,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -90,7 +90,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -103,7 +103,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -116,7 +116,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -129,7 +129,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -146,7 +146,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -159,7 +159,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -172,7 +172,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -185,7 +185,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -200,7 +200,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -213,7 +213,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -226,7 +226,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -239,7 +239,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -252,7 +252,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -265,7 +265,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -282,7 +282,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -295,7 +295,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -308,7 +308,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -321,7 +321,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -336,7 +336,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -349,7 +349,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -362,7 +362,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -375,7 +375,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -388,7 +388,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -401,7 +401,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -418,7 +418,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -431,7 +431,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -444,7 +444,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -457,7 +457,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -472,7 +472,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -485,7 +485,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -498,7 +498,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -511,7 +511,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -524,7 +524,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -537,7 +537,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -554,7 +554,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -567,7 +567,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -580,7 +580,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -593,7 +593,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -608,7 +608,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.6",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -621,7 +621,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -634,7 +634,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -647,7 +647,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -660,7 +660,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -673,7 +673,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -690,7 +690,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -703,7 +703,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -716,7 +716,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -729,7 +729,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -744,7 +744,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -757,7 +757,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -770,7 +770,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -783,7 +783,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -796,7 +796,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -809,7 +809,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -826,7 +826,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -839,7 +839,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -852,7 +852,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -865,7 +865,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -880,7 +880,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -893,7 +893,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -906,7 +906,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -919,7 +919,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -932,7 +932,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -945,7 +945,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -962,7 +962,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -975,7 +975,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -988,7 +988,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1001,7 +1001,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1016,7 +1016,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1029,7 +1029,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1042,7 +1042,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1055,7 +1055,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1068,7 +1068,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1081,7 +1081,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1098,7 +1098,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1111,7 +1111,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1124,7 +1124,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1137,7 +1137,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1152,7 +1152,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1165,7 +1165,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1178,7 +1178,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1191,7 +1191,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1204,7 +1204,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1217,7 +1217,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1234,7 +1234,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1247,7 +1247,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1260,7 +1260,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1273,7 +1273,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1288,7 +1288,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1301,7 +1301,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1314,7 +1314,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1327,7 +1327,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1340,7 +1340,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1353,7 +1353,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1370,7 +1370,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1383,7 +1383,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1396,7 +1396,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1409,7 +1409,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1424,7 +1424,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.5",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1437,7 +1437,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1450,7 +1450,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1463,7 +1463,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1476,7 +1476,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.185",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1489,7 +1489,7 @@
               "modify": {
                 "type": "lighten",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1506,7 +1506,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1519,7 +1519,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1532,7 +1532,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1545,7 +1545,7 @@
               "modify": {
                 "type": "darken",
                 "value": "0.18",
-                "space": "srgb"
+                "space": "hsl"
               }
             }
           }
@@ -1564,7 +1564,7 @@
           "modify": {
             "type": "alpha",
             "value": "0.75",
-            "space": "srgb"
+            "space": "hsl"
           }
         }
       }

@@ -2,11 +2,11 @@
   "jf": {
     "font-family": {
       "heading": {
-        "value": "Figtree",
+        "value": "SF Pro Display",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Figtree",
+        "value": "SF Pro Display",
         "type": "fontFamilies"
       },
       "mono": {

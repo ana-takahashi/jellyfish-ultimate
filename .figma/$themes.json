@@ -84,10 +84,10 @@
       "jf.bg.neutral-strong.enabled": "60f1f8fed3a1ace8993d534eaf7af7728193aa64",
       "jf.bg.neutral-strong.hover": "2e33a90e213b83966ebe75d1d0b6c14f483e9def",
       "jf.bg.neutral-strong.selected": "a8aec88e9a14882074e98da1a0a6610f435cb381",
-      "jf.bg.suface-soft": "e2ffea89478ccb5c9428dd5bd1db2cf68c55c462",
-      "jf.bg.success.enabled": "0e9898c3eae46343aa00a3b4850a5c447673579b",
-      "jf.bg.success.hover": "f693c05f03f0c794531e05f7e238e629b85a4809",
-      "jf.bg.success.selected": "d1e345d2d1da7be05db300885795152833a7e81c"
+      "jf.bg.suface-soft": "dffc7adcf854e117bc03a98abeaaa0c50d05aecb",
+      "jf.bg.success.enabled": "db775c1b8aed0c009e5c4838a31e67f0a3a048c0",
+      "jf.bg.success.hover": "12f2d7c2cae684e98630b1e7b199ee8c2143e089",
+      "jf.bg.success.selected": "5ea626ab7aad56a3f3084170445d07345692c830"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:3",
@@ -180,7 +180,7 @@
       "jf.fg.success": "32c11c1ef4590041e288ec1c5e34b3214eb9c6b5",
       "jf.fg.warning": "138730cf34c80e5ffd079aff7ffc2658817b5969",
       "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8",
-      "jf.bg.surface-soft": "be352b88fda1be58a4302c89f30998ef892386be",
+      "jf.bg.surface-soft": "67d1d40a27a9aca3fc28e633ffa127401fd890d3",
       "jf.bg.success-subtle.enabled": "be530ed3afe10104681e829fb60c4d21817f2dc5",
       "jf.bg.success-subtle.hover": "9ca9102ff0272f31eb5c4d7a94502eca86dd64b9",
       "jf.bg.success-subtle.selected": "3a008c1cc3c6a3d324625dc94b048ec16b67bd22"

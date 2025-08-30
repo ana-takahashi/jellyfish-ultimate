@@ -565,18 +565,8 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.neutral-soft.enabled}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "mix",
-                "value": "{jf.selected.amount}",
-                "space": "hsl",
-                "color": "{jf.color.black}"
-              }
-            }
-          }
+          "value": "{jf.palette.accent.50}",
+          "type": "color"
         }
       },
       "neutral": {
@@ -599,18 +589,8 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.neutral.enabled}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{jf.selected.amount}",
-                "space": "hsl",
-                "color": "{jf.color.black} "
-              }
-            }
-          }
+          "value": "{jf.palette.accent.500}",
+          "type": "color"
         }
       },
       "neutral-strong": {
@@ -632,17 +612,8 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.neutral-strong.enabled}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{jf.selected.amount}",
-                "space": "hsl"
-              }
-            }
-          }
+          "value": "{jf.palette.accent.700}",
+          "type": "color"
         }
       }
     },

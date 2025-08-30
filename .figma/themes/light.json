@@ -133,7 +133,7 @@
         "value": "{jf.color.white}",
         "type": "color"
       },
-      "suface-soft": {
+      "surface-soft": {
         "value": "{jf.palette.neutral.50}",
         "type": "color"
       },

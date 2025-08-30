@@ -1,8 +1,16 @@
 {
   "jf": {
     "controlBase": {
+      "sm": {
+        "value": "{jf.dimension.4_5x}",
+        "type": "sizing"
+      },
       "md": {
         "value": "{jf.dimension.5_5x}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{jf.dimension.6_5x}",
         "type": "sizing"
       }
     }

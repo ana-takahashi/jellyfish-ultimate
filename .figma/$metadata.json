@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
+    "primitives",
     "foundations/animations",
     "foundations/aspectRatios",
     "foundations/borderRadius",

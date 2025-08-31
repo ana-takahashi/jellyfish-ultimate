@@ -13,6 +13,9 @@
     "foundations/layouts",
     "themes/light",
     "themes/dark",
-    "components/controlBase"
+    "comps/desktop/content-container",
+    "comps/mobile/content-container",
+    "_figma/desktop",
+    "_figma/mobile"
   ]
 }

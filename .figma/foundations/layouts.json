@@ -23,18 +23,54 @@
       }
     },
     "container": {
-      "paddings": {
-        "narrow": {
-          "value": "{jf.dimension.1x}",
-          "type": "spacing"
+      "space": {
+        "edges": {
+          "narrow": {
+            "value": "{jf.dimension.1x}",
+            "type": "spacing"
+          },
+          "compact": {
+            "value": "{jf.dimension.2x}",
+            "type": "spacing"
+          },
+          "moderate": {
+            "value": "{jf.dimension.3x}",
+            "type": "spacing"
+          },
+          "wide": {
+            "value": "{jf.dimension.4x}",
+            "type": "spacing"
+          }
         },
-        "compact": {
-          "value": "{jf.dimension.2x}",
-          "type": "spacing"
-        },
-        "moderate": {
-          "value": "{jf.dimension.3x}",
-          "type": "spacing"
+        "stack": {
+          "narrow": {
+            "value": "{jf.space.xs}",
+            "type": "spacing"
+          },
+          "compact": {
+            "value": "{jf.space.sm}",
+            "type": "spacing"
+          },
+          "moderate": {
+            "value": "{jf.space.md}",
+            "type": "spacing"
+          },
+          "confortable": {
+            "value": "{jf.space.lg}",
+            "type": "spacing"
+          },
+          "wide": {
+            "value": "{jf.space.xl}",
+            "type": "spacing"
+          },
+          "widest": {
+            "value": "{jf.space.2xl}",
+            "type": "spacing"
+          },
+          "ultrawide": {
+            "value": "{jf.space.3xl}",
+            "type": "spacing"
+          }
         }
       }
     }

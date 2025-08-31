@@ -16,45 +16,45 @@
     },
     "font-size": {
       "h1": {
-        "value": "clamp(0.4972rem, 0.5307rem + -0.035vw, 0.5202rem)",
+        "value": "clamp(1.94rem, 0.72vi + 1.7rem, 2.59rem)",
         "type": "other"
       },
       "h2": {
-        "value": "clamp(0.5718rem, 0.5914rem + -0.0205vw, 0.5853rem)",
+        "value": "clamp(1.62rem, 0.51vi + 1.45rem, 2.08rem)",
         "type": "other"
       },
       "h3": {
-        "value": "clamp(0.6575rem, 0.6589rem + -0.0014vw, 0.6584rem)",
+        "value": "clamp(1.35rem, 0.34vi + 1.23rem, 1.66rem)",
         "type": "other"
       },
       "h4": {
-        "value": "clamp(0.7407rem, 0.7337rem + 0.0233vw, 0.7561rem)",
+        "value": "clamp(1.13rem, 0.23vi + 1.05rem, 1.33rem)",
         "type": "other"
       },
       "h5": {
-        "value": "clamp(0.9375rem, 0.9091rem + 0.0947vw, 1rem)",
+        "value": "1.06rem",
         "type": "other"
       },
       "h6": {
-        "value": "clamp(1.0547rem, 1.0114rem + 0.1444vw, 1.15rem)",
+        "value": "0.85rem",
         "type": "other"
       },
       "body": {
         "xs": {
-          "value": "clamp(1.1865rem, 1.1247rem + 0.206vw, 1.3225rem)",
-          "type": "other"
+          "value": "0.85rem",
+          "type": "fontSizes"
         },
         "sm": {
-          "value": "clamp(1.0547rem, 1.0114rem + 0.1444vw, 1.15rem)",
-          "type": "other"
+          "value": "0.9375rem",
+          "type": "fontSizes"
         },
         "md": {
-          "value": "clamp(0.9375rem, 0.9091rem + 0.0947vw, 1rem)",
-          "type": "other"
+          "value": "1.0625rem",
+          "type": "fontSizes"
         },
         "lg": {
-          "value": "clamp(0.8333rem, 0.8169rem + 0.0549vw, 0.8696rem)",
-          "type": "other"
+          "value": "1.25rem",
+          "type": "fontSizes"
         }
       }
     },
@@ -99,6 +99,17 @@
         "value": "0.15em",
         "type": "letterSpacing"
       }
+    },
+    "h1": {
+      "value": {
+        "fontFamily": "{jf.font-family.heading}",
+        "fontWeight": "{jf.font-weight.bold}",
+        "fontSize": "{jf.font-size.h1}",
+        "lineHeight": "{jf.line-height.short}",
+        "letterSpacing": "{jf.letter-spacing.moderate}",
+        "paragraphSpacing": "{jf.dimension.4x}"
+      },
+      "type": "typography"
     }
   }
 }

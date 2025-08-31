@@ -30,10 +30,40 @@
         "6": {
           "value": "repeat(6, 1fr)",
           "type": "other",
-          "description": "5 columns"
+          "description": "6 columns"
+        },
+        "7": {
+          "value": "repeat(7, 1fr)",
+          "type": "other",
+          "description": "7 columns"
+        },
+        "8": {
+          "value": "repeat(8, 1fr)",
+          "type": "other",
+          "description": "8 columns"
+        },
+        "9": {
+          "value": "repeat(9, 1fr)",
+          "type": "other",
+          "description": "9 columns"
+        },
+        "10": {
+          "value": "repeat(10, 1fr)",
+          "type": "other",
+          "description": "10 columns"
+        },
+        "11": {
+          "value": "repeat(11, 1fr)",
+          "type": "other",
+          "description": "11 columns"
+        },
+        "12": {
+          "value": "repeat(12, 1fr)",
+          "type": "other",
+          "description": "12 columns"
         }
       },
-      "gap": {
+      "gutter": {
         "none": {
           "value": "0",
           "type": "spacing",

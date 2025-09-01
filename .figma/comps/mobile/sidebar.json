@@ -1,0 +1,10 @@
+{
+  "jf": {
+    "sidebar": {
+      "max-width": {
+        "value": "100%",
+        "type": "sizing"
+      }
+    }
+  }
+}

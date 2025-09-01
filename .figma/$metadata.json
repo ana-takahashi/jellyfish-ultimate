@@ -13,9 +13,11 @@
     "foundations/layouts",
     "themes/light",
     "themes/dark",
+    "comps/desktop/typography",
+    "comps/desktop/sidebar",
     "comps/desktop/content-container",
-    "comps/mobile/content-container",
-    "_figma/desktop",
-    "_figma/mobile"
+    "comps/mobile/sidebar",
+    "comps/mobile/typography",
+    "comps/mobile/content-container"
   ]
 }

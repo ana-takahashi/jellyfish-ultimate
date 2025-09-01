@@ -1,0 +1,40 @@
+{
+  "font-size": {
+    "display1": {
+      "value": "5.07rem",
+      "type": "fontSizes"
+    },
+    "display2": {
+      "value": "4.05rem",
+      "type": "fontSizes"
+    },
+    "display3": {
+      "value": "3.24rem",
+      "type": "fontSizes"
+    },
+    "h1": {
+      "value": "2.59rem",
+      "type": "fontSizes"
+    },
+    "h2": {
+      "value": "2.08rem",
+      "type": "fontSizes"
+    },
+    "h3": {
+      "value": "1.66rem",
+      "type": "fontSizes"
+    },
+    "h4": {
+      "value": "1.33rem",
+      "type": "fontSizes"
+    },
+    "h5": {
+      "value": "1.06rem",
+      "type": "fontSizes"
+    },
+    "h6": {
+      "value": "0.85rem",
+      "type": "fontSizes"
+    }
+  }
+}

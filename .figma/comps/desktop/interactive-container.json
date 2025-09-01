@@ -1,0 +1,10 @@
+{
+  "jf": {
+    "interactive-container": {
+      "min-height": {
+        "value": "{jf.dimension.5x}",
+        "type": "sizing"
+      }
+    }
+  }
+}

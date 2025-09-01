@@ -634,19 +634,35 @@
         "type": "color"
       },
       "accent": {
-        "value": "{jf.palette.accent.600}",
+        "value": "{jf.palette.accent.500}",
+        "type": "color"
+      },
+      "accent-soft": {
+        "value": "{jf.palette.accent.700}",
         "type": "color"
       },
       "success": {
         "value": "{jf.palette.success.600}",
         "type": "color"
       },
+      "success-soft": {
+        "value": "{jf.palette.success.800}",
+        "type": "color"
+      },
       "warning": {
         "value": "{jf.palette.warning.600}",
         "type": "color"
       },
+      "warning-soft": {
+        "value": "{jf.palette.warning.700}",
+        "type": "color"
+      },
       "critical": {
         "value": "{jf.palette.critical.600}",
+        "type": "color"
+      },
+      "critical-soft": {
+        "value": "{jf.palette.critical.800}",
         "type": "color"
       }
     },

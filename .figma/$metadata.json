@@ -3,7 +3,7 @@
     "primitives",
     "foundations/animations",
     "foundations/aspectRatios",
-    "foundations/borderRadius",
+    "foundations/borders",
     "foundations/colors",
     "foundations/dimensions",
     "foundations/grids",
@@ -16,6 +16,8 @@
     "comps/desktop/typography",
     "comps/desktop/sidebar",
     "comps/desktop/content-container",
+    "comps/desktop/interactive-container",
+    "comps/mobile/interactive-container",
     "comps/mobile/sidebar",
     "comps/mobile/typography",
     "comps/mobile/content-container"

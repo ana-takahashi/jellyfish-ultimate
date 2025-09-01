@@ -277,6 +277,16 @@
         },
         "type": "typography"
       },
+      "xs": {
+        "value": {
+          "fontFamily": "{jf.font-family.body}",
+          "fontSize": "{jf.font-size.body.xs}",
+          "lineHeight": "{jf.line-height.tall}",
+          "letterSpacing": "{jf.letter-spacing.moderate}",
+          "fontWeight": "{jf.font-weight.medium}"
+        },
+        "type": "typography"
+      },
       "md": {
         "value": {
           "fontFamily": "{jf.font-family.body}",

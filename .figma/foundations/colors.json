@@ -199,7 +199,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.5",
+                "value": "0.75",
                 "space": "hsl"
               }
             }
@@ -212,7 +212,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.5",
+                "value": "0.6",
                 "space": "hsl"
               }
             }

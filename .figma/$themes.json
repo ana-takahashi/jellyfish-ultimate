@@ -22,8 +22,8 @@
       "foundations/typography": "source",
       "foundations/opacity": "source",
       "foundations/layouts": "source",
-      "primitives": "source",
-      "foundations/borders": "source"
+      "foundations/borders": "source",
+      "utilities": "source"
     },
     "$figmaVariableReferences": {
       "jf.bg.surface": "2c5aa9740d9f8fddf37aaaa5b82591cef4b0fcf6",
@@ -121,8 +121,8 @@
       "foundations/typography": "source",
       "foundations/opacity": "source",
       "foundations/layouts": "source",
-      "primitives": "source",
-      "foundations/borders": "source"
+      "foundations/borders": "source",
+      "utilities": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:4",
@@ -241,7 +241,8 @@
       "foundations/typography": "enabled",
       "foundations/opacity": "enabled",
       "foundations/layouts": "enabled",
-      "foundations/borders": "enabled"
+      "foundations/borders": "enabled",
+      "utilities": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1177",
     "$figmaModeId": "99:2",
@@ -510,7 +511,6 @@
       "jf.control.focus": "S:eec59fff7fc5b3329d2016b05508618186330277,"
     },
     "selectedTokenSets": {
-      "primitives": "source",
       "foundations/animations": "source",
       "foundations/aspectRatios": "source",
       "foundations/colors": "source",
@@ -526,7 +526,8 @@
       "comps/desktop/typography": "enabled",
       "comps/desktop/sidebar": "enabled",
       "foundations/borders": "source",
-      "comps/desktop/control": "enabled"
+      "comps/desktop/control": "enabled",
+      "utilities": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:145:2",
     "$figmaModeId": "178:0",
@@ -560,7 +561,6 @@
       "jf.control.focus": "S:eec59fff7fc5b3329d2016b05508618186330277,"
     },
     "selectedTokenSets": {
-      "primitives": "source",
       "foundations/animations": "source",
       "foundations/aspectRatios": "source",
       "foundations/colors": "source",
@@ -576,7 +576,8 @@
       "comps/mobile/typography": "enabled",
       "comps/mobile/sidebar": "enabled",
       "foundations/borders": "source",
-      "comps/mobile/control": "enabled"
+      "comps/mobile/control": "enabled",
+      "utilities": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:145:2",
     "$figmaModeId": "178:1",

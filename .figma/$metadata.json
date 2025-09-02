@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "primitives",
+    "utilities",
     "foundations/animations",
     "foundations/aspectRatios",
     "foundations/borders",

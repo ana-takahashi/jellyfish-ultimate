@@ -23,7 +23,12 @@
       "foundations/opacity": "source",
       "foundations/layouts": "source",
       "foundations/borders": "source",
-      "utilities": "source"
+      "utilities": "source",
+      "comps/content-container": "disabled",
+      "comps/sidebar": "disabled",
+      "comps/control": "disabled",
+      "comps/screen/desktop": "disabled",
+      "comps/screen/mobile": "disabled"
     },
     "$figmaVariableReferences": {
       "jf.bg.surface": "2c5aa9740d9f8fddf37aaaa5b82591cef4b0fcf6",
@@ -63,6 +68,15 @@
       "jf.bg.critical-strong.enabled": "2e5f27dab80d6538c4c8f76406764358115f5eb2",
       "jf.bg.critical-strong.hover": "81bacabb17e851d2045449a7680f6269caa2ddbe",
       "jf.bg.critical-strong.selected": "bd37df1dae498c20b13f901c5ed0c2711ecb44aa",
+      "jf.bg.neutral-soft.enabled": "f25482d71626774382586ceea74358f6f6980a0a",
+      "jf.bg.neutral-soft.hover": "2276d65f7c47d77b7aa1826097083f33c238b2b9",
+      "jf.bg.neutral-soft.selected": "f6a0c7e42804529b48759a46571c4b3573cbb9dc",
+      "jf.bg.neutral.enabled": "14dc6382050d025aea34434ec0068069f6b01a1b",
+      "jf.bg.neutral.hover": "9c594957949b72f5bd651e408a7b05e5a09dadbf",
+      "jf.bg.neutral.selected": "f5ec423320856d81c9839ad7318de5c5289b788c",
+      "jf.bg.neutral-strong.enabled": "60f1f8fed3a1ace8993d534eaf7af7728193aa64",
+      "jf.bg.neutral-strong.hover": "2e33a90e213b83966ebe75d1d0b6c14f483e9def",
+      "jf.bg.neutral-strong.selected": "a8aec88e9a14882074e98da1a0a6610f435cb381",
       "jf.bd-color.default": "378e93d986ac4bbbcd01787a811d4a4d5ddfd308",
       "jf.bd-color.inverted": "63de04eab381136cd575b36d124802cbc4b4cecb",
       "jf.bd-color.accent": "b6a7f4d2355036da6f8e4f9ecc3c8aafdeb096d2",
@@ -81,18 +95,9 @@
       "jf.fg.success": "32c11c1ef4590041e288ec1c5e34b3214eb9c6b5",
       "jf.fg.warning": "138730cf34c80e5ffd079aff7ffc2658817b5969",
       "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8",
-      "jf.bg.neutral-soft.enabled": "f25482d71626774382586ceea74358f6f6980a0a",
-      "jf.bg.neutral-soft.hover": "2276d65f7c47d77b7aa1826097083f33c238b2b9",
-      "jf.bg.neutral-soft.selected": "f6a0c7e42804529b48759a46571c4b3573cbb9dc",
-      "jf.bg.neutral.enabled": "14dc6382050d025aea34434ec0068069f6b01a1b",
-      "jf.bg.neutral.hover": "9c594957949b72f5bd651e408a7b05e5a09dadbf",
-      "jf.bg.neutral.selected": "f5ec423320856d81c9839ad7318de5c5289b788c",
-      "jf.bg.neutral-strong.enabled": "60f1f8fed3a1ace8993d534eaf7af7728193aa64",
-      "jf.bg.neutral-strong.hover": "2e33a90e213b83966ebe75d1d0b6c14f483e9def",
-      "jf.bg.neutral-strong.selected": "a8aec88e9a14882074e98da1a0a6610f435cb381",
-      "jf.bg.success.enabled": "c9db9f710527ad65e5d738e09d0a387313a3bd14",
-      "jf.bg.success.hover": "82480f2be4420aca3ed56fe2fbd602dc5befa507",
-      "jf.bg.success.selected": "f60649b9d4993b1115dbebe9f5f98dcf2ade4509"
+      "jf.bg.success.enabled": "16c76a4e7702adebb6497fe4135caf3f61258792",
+      "jf.bg.success.hover": "d7b4fe3d442950ca715087e44bf371ff84e60424",
+      "jf.bg.success.selected": "98b0b5953b7631d374d317272b89ccd1f5075939"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:3",
@@ -122,7 +127,12 @@
       "foundations/opacity": "source",
       "foundations/layouts": "source",
       "foundations/borders": "source",
-      "utilities": "source"
+      "utilities": "source",
+      "comps/content-container": "disabled",
+      "comps/sidebar": "disabled",
+      "comps/control": "disabled",
+      "comps/screen/desktop": "disabled",
+      "comps/screen/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:4",
@@ -191,9 +201,9 @@
       "jf.fg.success": "32c11c1ef4590041e288ec1c5e34b3214eb9c6b5",
       "jf.fg.warning": "138730cf34c80e5ffd079aff7ffc2658817b5969",
       "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8",
-      "jf.bg.success-subtle.enabled": "2bb6d6ec188f5e3f869ff9d03e99ce77e9f0d39f",
-      "jf.bg.success-subtle.hover": "eacd864fd709a8e762acef406416ad0adb03ffa1",
-      "jf.bg.success-subtle.selected": "5ddfca6aacd5635f24a997e4abf90d89989a523c"
+      "jf.bg.success-subtle.enabled": "54db78c711666ec4e2da743df11e999d49f219e6",
+      "jf.bg.success-subtle.hover": "7829e44510f420051bb4c609ebff0ae895c525f1",
+      "jf.bg.success-subtle.selected": "06242d2a8edf78e5424f450c4f4cb60b9f32c3d3"
     },
     "group": "themes"
   },
@@ -242,7 +252,12 @@
       "foundations/opacity": "enabled",
       "foundations/layouts": "enabled",
       "foundations/borders": "enabled",
-      "utilities": "enabled"
+      "utilities": "enabled",
+      "comps/content-container": "disabled",
+      "comps/sidebar": "disabled",
+      "comps/control": "disabled",
+      "comps/screen/desktop": "disabled",
+      "comps/screen/mobile": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1177",
     "$figmaModeId": "99:2",
@@ -503,17 +518,18 @@
       "jf.container.space.inline.wide": "be00acb8d76ead4c98eb5cc58971faa56a0d29c0",
       "jf.container.space.inline.widest": "40fb313c9c287c1f33927350693ece5ab94cbaa3",
       "jf.container.space.inline.ultrawide": "4fc5ca41af822a584cfa33f45cc0157d95cb07fb"
-    }
+    },
+    "group": "global"
   },
   {
-    "id": "fbac8a0cdce8245563cddf04eda20838e2f9dc8c",
-    "name": "desktop",
-    "$figmaStyleReferences": {
-      "jf.control.focus": "S:eec59fff7fc5b3329d2016b05508618186330277,"
-    },
+    "id": "b91b16cb627fc77cc54e719b5b95c69f06ad29e3",
+    "name": "web",
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "utilities": "source",
       "foundations/animations": "source",
       "foundations/aspectRatios": "source",
+      "foundations/borders": "source",
       "foundations/colors": "source",
       "foundations/dimensions": "source",
       "foundations/grids": "source",
@@ -522,46 +538,37 @@
       "foundations/opacity": "source",
       "foundations/layouts": "source",
       "themes/light": "source",
-      "themes/dark": "source",
-      "comps/desktop/content-container": "enabled",
-      "comps/desktop/sidebar": "enabled",
-      "foundations/borders": "source",
-      "comps/desktop/control": "enabled",
-      "utilities": "source"
+      "comps/sidebar": "enabled",
+      "comps/control": "enabled",
+      "comps/content-container": "enabled",
+      "comps/screen/desktop": "enabled",
+      "comps/screen/mobile": "disabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:145:2",
-    "$figmaModeId": "178:0",
+    "$figmaCollectionId": "VariableCollectionId:223:47",
+    "$figmaModeId": "223:0",
     "$figmaVariableReferences": {
-      "jf.sidebar.max-width": "da785b3d968e59eae017b1080a677f6a1fd4dc91",
-      "jf.font-size.display1": "ea953f49f5912f0cdbc01f093abdec9f39a05fad",
-      "jf.font-size.display2": "f8e8237f8ad93e926157a084730a782d7a28d263",
-      "jf.font-size.display3": "a56d6845f69022b54f7e078f5b119b9e0cb6a7c4",
-      "jf.font-size.h1": "755a9f0d9d51b804d3885598ab43039fc8a4aafd",
-      "jf.font-size.h2": "0b89b509fd3cc9e1beb9474bdafe7f5a69a5b88b",
-      "jf.font-size.h3": "772aefea4e2dbf38d435612767a8d429b396eefb",
-      "jf.font-size.h4": "cd65c06708904bac76541890b736d0e58f6d6051",
-      "jf.font-size.h5": "3b682b7cfe92c4a8ed4c38c138e31372ec7b4ca6",
-      "jf.font-size.h6": "6465bc70b4f211420afe9593fa7ebbf8a3e7baae",
-      "jf.content-container.max-width": "005aa31bab7df07c123c3bd81dda2346b97f6cbc",
-      "jf.content-container.space.x": "284547cfc9f0041a1c587d3cf61303c90d198fe3",
-      "jf.control.height.sm": "da956bf1e06819cfa9f56eb8f314a57b89c39ea2",
-      "jf.control.height.md": "9f640bd721657f104b5c7499b95a475f290733ea",
-      "jf.control.height.lg": "8b252ac173a750f108e4d280f5b726ceb68e26e8",
-      "jf.control.space.x.regular": "4cedeb98f621e64414ab9e4c41869d65fffe8ecf",
-      "jf.control.space.x.wide": "561b7d899ceb3478759b29ad77571bd712780772"
+      "jf.content-container.space.x": "40fd6dd2f7434358cf9b52accf68f18732391b3d",
+      "jf.sidebar.max-width": "84b6e2da44f618d1017937681c401b5492799f44",
+      "jf.control.height.sm": "230412eadc9aeba14bf1f7eb7c8124c48619194d",
+      "jf.control.height.md": "476d4abc929564436ec600aa60fb9e7927135eb5",
+      "jf.control.height.lg": "21335cfa579166e91da5e5677086a9c5791c9b95",
+      "jf.control.space.x.regular": "baa1b2012ba0456b3c81800e1e6de1f93e2da8ea",
+      "jf.control.space.x.wide": "64d5fa309b051baf69b9b9508246056d7706a91d",
+      "jf.content-container.max-width": "e1b4d03976a12b7b21e8366ae9198934b0ac5205"
     },
     "group": "comps"
   },
   {
-    "id": "62d0d9e728396c231e32f6ae34e14b30dcda1074",
+    "id": "9ef65ad468272f858dce15b9f79dd7e5fa3fdb03",
     "name": "mobile",
-    "$figmaStyleReferences": {
-      "jf.h1": "S:248c3630a24318a650963bc03274b188d9fd0112,",
-      "h1": "S:d459338074b0dd615ea3d38c68674bb45f565f44,",
-      "jf.control.focus": "S:eec59fff7fc5b3329d2016b05508618186330277,"
-    },
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "comps/sidebar": "enabled",
+      "comps/control": "enabled",
+      "comps/content-container": "enabled",
+      "utilities": "source",
       "foundations/animations": "source",
+      "foundations/borders": "source",
       "foundations/aspectRatios": "source",
       "foundations/colors": "source",
       "foundations/dimensions": "source",
@@ -569,35 +576,23 @@
       "foundations/spacing": "source",
       "foundations/typography": "source",
       "foundations/opacity": "source",
-      "foundations/layouts": "source",
       "themes/light": "source",
-      "themes/dark": "source",
-      "comps/mobile/content-container": "enabled",
-      "comps/mobile/sidebar": "enabled",
-      "foundations/borders": "source",
-      "comps/mobile/control": "enabled",
-      "utilities": "source"
+      "foundations/layouts": "source",
+      "comps/screen/desktop": "disabled",
+      "comps/screen/mobile": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:145:2",
-    "$figmaModeId": "178:1",
+    "group": "comps",
+    "$figmaCollectionId": "VariableCollectionId:223:47",
+    "$figmaModeId": "223:1",
     "$figmaVariableReferences": {
-      "jf.font-size.display1": "ea953f49f5912f0cdbc01f093abdec9f39a05fad",
-      "jf.font-size.display2": "f8e8237f8ad93e926157a084730a782d7a28d263",
-      "jf.font-size.display3": "a56d6845f69022b54f7e078f5b119b9e0cb6a7c4",
-      "jf.font-size.h1": "755a9f0d9d51b804d3885598ab43039fc8a4aafd",
-      "jf.font-size.h2": "0b89b509fd3cc9e1beb9474bdafe7f5a69a5b88b",
-      "jf.font-size.h3": "772aefea4e2dbf38d435612767a8d429b396eefb",
-      "jf.font-size.h4": "cd65c06708904bac76541890b736d0e58f6d6051",
-      "jf.font-size.h5": "3b682b7cfe92c4a8ed4c38c138e31372ec7b4ca6",
-      "jf.font-size.h6": "6465bc70b4f211420afe9593fa7ebbf8a3e7baae",
-      "jf.content-container.max-width": "005aa31bab7df07c123c3bd81dda2346b97f6cbc",
-      "jf.content-container.space.x": "284547cfc9f0041a1c587d3cf61303c90d198fe3",
-      "jf.control.height.sm": "da956bf1e06819cfa9f56eb8f314a57b89c39ea2",
-      "jf.control.height.md": "9f640bd721657f104b5c7499b95a475f290733ea",
-      "jf.control.height.lg": "8b252ac173a750f108e4d280f5b726ceb68e26e8",
-      "jf.control.space.x.regular": "4cedeb98f621e64414ab9e4c41869d65fffe8ecf",
-      "jf.control.space.x.wide": "561b7d899ceb3478759b29ad77571bd712780772"
-    },
-    "group": "comps"
+      "jf.content-container.space.x": "40fd6dd2f7434358cf9b52accf68f18732391b3d",
+      "jf.sidebar.max-width": "84b6e2da44f618d1017937681c401b5492799f44",
+      "jf.control.height.sm": "230412eadc9aeba14bf1f7eb7c8124c48619194d",
+      "jf.control.height.md": "476d4abc929564436ec600aa60fb9e7927135eb5",
+      "jf.control.height.lg": "21335cfa579166e91da5e5677086a9c5791c9b95",
+      "jf.control.space.x.regular": "baa1b2012ba0456b3c81800e1e6de1f93e2da8ea",
+      "jf.control.space.x.wide": "64d5fa309b051baf69b9b9508246056d7706a91d",
+      "jf.content-container.max-width": "e1b4d03976a12b7b21e8366ae9198934b0ac5205"
+    }
   }
 ]

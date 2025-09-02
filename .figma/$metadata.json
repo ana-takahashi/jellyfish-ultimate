@@ -13,11 +13,10 @@
     "foundations/layouts",
     "themes/light",
     "themes/dark",
-    "comps/desktop/sidebar",
-    "comps/desktop/content-container",
-    "comps/desktop/control",
-    "comps/mobile/sidebar",
-    "comps/mobile/content-container",
-    "comps/mobile/control"
+    "comps/sidebar",
+    "comps/control",
+    "comps/content-container",
+    "comps/screen/desktop",
+    "comps/screen/mobile"
   ]
 }

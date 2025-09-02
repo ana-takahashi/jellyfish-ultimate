@@ -1,11 +1,6 @@
 {
   "jf": {
     "content-container": {
-      "max-width": {
-        "value": "1010px",
-        "type": "sizing",
-        "description": "Max width of main content div"
-      },
       "space": {
         "x": {
           "value": "{jf.container.space.edges.moderate}",

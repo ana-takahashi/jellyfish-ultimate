@@ -1,0 +1,12 @@
+{
+  "jf": {
+    "content-container": {
+      "space": {
+        "x": {
+          "value": "{jf.container.space.edges.compact}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

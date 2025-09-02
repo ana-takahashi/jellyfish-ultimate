@@ -1,40 +1,42 @@
 {
-  "font-size": {
-    "display1": {
-      "value": "3.36rem",
-      "type": "fontSizes"
-    },
-    "display2": {
-      "value": "2.8rem",
-      "type": "fontSizes"
-    },
-    "display3": {
-      "value": "2.33rem",
-      "type": "fontSizes"
-    },
-    "h1": {
-      "value": "1.94rem",
-      "type": "fontSizes"
-    },
-    "h2": {
-      "value": "1.62rem",
-      "type": "fontSizes"
-    },
-    "h3": {
-      "value": "1.35rem",
-      "type": "fontSizes"
-    },
-    "h4": {
-      "value": "1.13rem",
-      "type": "fontSizes"
-    },
-    "h5": {
-      "value": "1.06rem",
-      "type": "fontSizes"
-    },
-    "h6": {
-      "value": "0.85rem",
-      "type": "fontSizes"
+  "jf": {
+    "font-size": {
+      "display1": {
+        "value": "3.36rem",
+        "type": "fontSizes"
+      },
+      "display2": {
+        "value": "2.8rem",
+        "type": "fontSizes"
+      },
+      "display3": {
+        "value": "2.33rem",
+        "type": "fontSizes"
+      },
+      "h1": {
+        "value": "1.94rem",
+        "type": "fontSizes"
+      },
+      "h2": {
+        "value": "1.62rem",
+        "type": "fontSizes"
+      },
+      "h3": {
+        "value": "1.35rem",
+        "type": "fontSizes"
+      },
+      "h4": {
+        "value": "1.13rem",
+        "type": "fontSizes"
+      },
+      "h5": {
+        "value": "1.06rem",
+        "type": "fontSizes"
+      },
+      "h6": {
+        "value": "0.85rem",
+        "type": "fontSizes"
+      }
     }
   }
 }

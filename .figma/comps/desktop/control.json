@@ -1,0 +1,32 @@
+{
+  "jf": {
+    "control": {
+      "height": {
+        "sm": {
+          "value": "{jf.dimension.4x}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{jf.dimension.5x}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{jf.dimension.6_5x}",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "x": {
+          "regular": {
+            "value": "{jf.container.space.edges.narrow}",
+            "type": "spacing"
+          },
+          "wide": {
+            "value": "{jf.container.space.edges.wide}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

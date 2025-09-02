@@ -16,10 +16,10 @@
     "comps/desktop/typography",
     "comps/desktop/sidebar",
     "comps/desktop/content-container",
-    "comps/desktop/interactive-container",
-    "comps/mobile/interactive-container",
+    "comps/desktop/control",
     "comps/mobile/sidebar",
     "comps/mobile/typography",
-    "comps/mobile/content-container"
+    "comps/mobile/content-container",
+    "comps/mobile/control"
   ]
 }

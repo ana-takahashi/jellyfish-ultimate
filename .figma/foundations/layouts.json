@@ -25,8 +25,12 @@
     "container": {
       "space": {
         "edges": {
-          "narrow": {
+          "tight": {
             "value": "{jf.dimension.1x}",
+            "type": "spacing"
+          },
+          "narrow": {
+            "value": "{jf.dimension.1_5}",
             "type": "spacing"
           },
           "compact": {
@@ -43,6 +47,40 @@
           }
         },
         "stack": {
+          "narrow": {
+            "value": "{jf.space.xs}",
+            "type": "spacing"
+          },
+          "compact": {
+            "value": "{jf.space.sm}",
+            "type": "spacing"
+          },
+          "moderate": {
+            "value": "{jf.space.md}",
+            "type": "spacing"
+          },
+          "confortable": {
+            "value": "{jf.space.lg}",
+            "type": "spacing"
+          },
+          "wide": {
+            "value": "{jf.space.xl}",
+            "type": "spacing"
+          },
+          "widest": {
+            "value": "{jf.space.2xl}",
+            "type": "spacing"
+          },
+          "ultrawide": {
+            "value": "{jf.space.3xl}",
+            "type": "spacing"
+          }
+        },
+        "inline": {
+          "tight": {
+            "value": "{jf.space.2xs}",
+            "type": "spacing"
+          },
           "narrow": {
             "value": "{jf.space.xs}",
             "type": "spacing"

@@ -3,7 +3,7 @@
     "font-size": {
       "body": {
         "xs": {
-          "value": "0.85rem",
+          "value": "0.718rem",
           "type": "fontSizes"
         },
         "sm": {
@@ -107,7 +107,7 @@
     "caption": {
       "value": {
         "fontFamily": "{jf.font-family.body}",
-        "fontSize": "{jf.font-size.body.sm}",
+        "fontSize": "{jf.font-size.body.xs}",
         "lineHeight": "{jf.line-height.short}",
         "letterSpacing": "{jf.letter-spacing.moderate}",
         "fontWeight": "{jf.font-weight.medium}"

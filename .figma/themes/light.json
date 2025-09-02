@@ -126,6 +126,19 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "focus": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2px",
+            "color": "{jf.bd-color.accent}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "bg": {
@@ -557,7 +570,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{jf.hover.amount}",
+                "value": "0.05",
                 "space": "hsl",
                 "color": "{jf.color.black} "
               }
@@ -665,7 +678,7 @@
         "type": "color"
       },
       "muted": {
-        "value": "{jf.palette.neutral.200}",
+        "value": "{jf.palette.neutral.300}",
         "type": "color"
       },
       "strong": {

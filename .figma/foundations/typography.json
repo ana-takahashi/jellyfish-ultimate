@@ -35,6 +35,14 @@
         "value": "clamp(1.08rem, 0.2vi + 1.03rem, 1.27rem)",
         "type": "other"
       },
+      "h5": {
+        "value": "1.06rem",
+        "type": "other"
+      },
+      "h6": {
+        "value": "0.85rem",
+        "type": "other"
+      },
       "display3": {
         "value": "clamp(1.89rem, 0.78vi + 1.71rem, 2.64rem)",
         "type": "other"

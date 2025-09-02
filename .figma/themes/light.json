@@ -198,7 +198,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{jf.bg.accent-soft.enabled}",
+          "value": "{jf.bg.accent.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -212,7 +212,7 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.accent-soft.enabled}",
+          "value": "{jf.bg.accent.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -300,7 +300,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{jf.bg.success-soft.enabled}",
+          "value": "{jf.bg.success.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -313,7 +313,7 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.success-soft.enabled}",
+          "value": "{jf.bg.success.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -332,7 +332,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{jf.bg.success-soft.enabled}",
+          "value": "{jf.bg.success-strong.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -345,7 +345,7 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.success-soft.enabled}",
+          "value": "{jf.bg.success-strong.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -398,7 +398,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{jf.bg.warning-soft.enabled}",
+          "value": "{jf.bg.warning.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -412,7 +412,7 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.warning-soft.enabled}",
+          "value": "{jf.bg.warning.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -498,7 +498,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{jf.bg.critical-soft.enabled}",
+          "value": "{jf.bg.critical.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -512,7 +512,7 @@
           }
         },
         "selected": {
-          "value": "{jf.bg.critical-soft.enabled}",
+          "value": "{jf.bg.critical.enabled}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -570,7 +570,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.05",
+                "value": "{jf.hover.amount}",
                 "space": "hsl",
                 "color": "{jf.color.black} "
               }

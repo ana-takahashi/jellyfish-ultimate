@@ -7,7 +7,7 @@
           "type": "fontSizes"
         },
         "sm": {
-          "value": "0.9375rem",
+          "value": "0.875rem",
           "type": "fontSizes"
         },
         "md": {
@@ -20,31 +20,31 @@
         }
       },
       "h1": {
-        "value": "clamp(1.94rem, 0.65vi + 1.81rem, 2.59rem)",
+        "value": "clamp(1.64rem, 0.58vi + 1.51rem, 2.2rem)",
         "type": "other"
       },
       "h2": {
-        "value": "clamp(1.62rem, 0.51vi + 1.45rem, 2.08rem)",
+        "value": "clamp(1.43rem, 0.42vi + 1.33rem, 1.84rem)",
         "type": "other"
       },
       "h3": {
-        "value": "clamp(1.35rem, 0.34vi + 1.23rem, 1.66rem)",
+        "value": "clamp(1.24rem, 0.3vi + 1.17rem, 1.53rem)",
         "type": "other"
       },
       "h4": {
-        "value": "clamp(1.13rem, 0.23vi + 1.05rem, 1.33rem)",
+        "value": "clamp(1.08rem, 0.2vi + 1.03rem, 1.27rem)",
         "type": "other"
       },
       "display3": {
-        "value": "clamp(2.33rem, 0.91vi + 2.15rem, 3.24rem)",
+        "value": "clamp(1.89rem, 0.78vi + 1.71rem, 2.64rem)",
         "type": "other"
       },
       "display2": {
-        "value": "clamp(2.8rem, 1.25vi + 2.55rem, 4.05rem)",
+        "value": "clamp(2.17rem, 1.03vi + 1.94rem, 3.17rem)",
         "type": "other"
       },
       "display1": {
-        "value": "clamp(3.36rem, 1.71vi + 3.02rem, 5.07rem)",
+        "value": "clamp(2.49rem, 1.35vi + 2.19rem, 3.81rem)",
         "type": "other"
       }
     },

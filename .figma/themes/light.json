@@ -8,7 +8,7 @@
             "y": "1",
             "blur": "2",
             "spread": "0",
-            "color": "{jf.shadow-color}1A",
+            "color": "#2023291A",
             "type": "dropShadow"
           },
           {
@@ -16,7 +16,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "{jf.shadow-color}33",
+            "color": "#20232933",
             "type": "dropShadow"
           }
         ],
@@ -29,7 +29,7 @@
             "y": "2",
             "blur": "4",
             "spread": "0",
-            "color": "{jf.shadow-color}1A",
+            "color": "#2023291A",
             "type": "dropShadow"
           },
           {
@@ -37,7 +37,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "{jf.shadow-color}4D",
+            "color": "#2023294D",
             "type": "dropShadow"
           }
         ],
@@ -50,7 +50,7 @@
             "y": "4",
             "blur": "8",
             "spread": "0",
-            "color": "{jf.shadow-color}1A",
+            "color": "#2023291A",
             "type": "dropShadow"
           },
           {
@@ -58,7 +58,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "{jf.shadow-color}4D",
+            "color": "#2023294D",
             "type": "dropShadow"
           }
         ],
@@ -71,7 +71,7 @@
             "y": "8",
             "blur": "16",
             "spread": "0",
-            "color": "{jf.shadow-color}1A",
+            "color": "#2023291A",
             "type": "dropShadow"
           },
           {
@@ -79,7 +79,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "{jf.shadow-color}4D",
+            "color": "#2023294D",
             "type": "dropShadow"
           }
         ],
@@ -92,7 +92,7 @@
             "y": "16",
             "blur": "24",
             "spread": "0",
-            "color": "{jf.shadow-color}1A",
+            "color": "#2023291A",
             "type": "dropShadow"
           },
           {
@@ -100,7 +100,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "{jf.shadow-color}4D",
+            "color": "#2023294D",
             "type": "dropShadow"
           }
         ],
@@ -113,7 +113,7 @@
             "y": "24",
             "blur": "40",
             "spread": "0",
-            "color": "{jf.shadow-color}29",
+            "color": "#20232929",
             "type": "dropShadow"
           },
           {
@@ -121,7 +121,7 @@
             "y": "0",
             "blur": "1",
             "spread": "0",
-            "color": "{jf.shadow-color}4D",
+            "color": "#2023294D",
             "type": "dropShadow"
           }
         ],

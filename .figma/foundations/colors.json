@@ -1552,10 +1552,6 @@
         }
       }
     },
-    "shadow-color": {
-      "value": "{jf.palette.neutral.900}",
-      "type": "color"
-    },
     "overlay": {
       "value": "{jf.palette.neutral.900}",
       "type": "color",

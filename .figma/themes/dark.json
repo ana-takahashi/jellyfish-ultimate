@@ -292,7 +292,7 @@
           }
         }
       },
-      "success-subtle": {
+      "success": {
         "enabled": {
           "value": "{jf.palette.success.600}",
           "type": "color"

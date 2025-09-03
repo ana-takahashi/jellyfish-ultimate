@@ -23,12 +23,7 @@
       "foundations/opacity": "source",
       "foundations/layouts": "source",
       "foundations/borders": "source",
-      "utilities": "source",
-      "comps/content-container": "disabled",
-      "comps/sidebar": "disabled",
-      "comps/control": "disabled",
-      "comps/screen/desktop": "disabled",
-      "comps/screen/mobile": "disabled"
+      "utilities": "source"
     },
     "$figmaVariableReferences": {
       "jf.bg.surface": "2c5aa9740d9f8fddf37aaaa5b82591cef4b0fcf6",
@@ -47,6 +42,9 @@
       "jf.bg.success-soft.enabled": "d980e193cf284c501d410d602e344db0e4bf0fb0",
       "jf.bg.success-soft.hover": "84e85bd1ad3fdeedf4fb972f1db64662d365a97a",
       "jf.bg.success-soft.selected": "3f0fb70be2a11945386f8da13d2a7ad288c300f0",
+      "jf.bg.success.enabled": "8a05891dec6c5a047b18145e63aba4012855743d",
+      "jf.bg.success.hover": "41882a213df689fb49b8681f76e74be19c9a3e19",
+      "jf.bg.success.selected": "406797d285ce13b3d7864ed96b14c9796957e286",
       "jf.bg.success-strong.enabled": "f949c93a9a3a56c0e9fdeb4b84a563530444e7ad",
       "jf.bg.success-strong.hover": "3792a72b07ad6ca363ac2fdff18da071ed7b35c4",
       "jf.bg.success-strong.selected": "055c3ed9a281b8d7b42f8c74894a6f2ad3e3788c",
@@ -94,10 +92,7 @@
       "jf.fg.accent": "faf058ed06bda92d2e8e85cdcb414d86dc286219",
       "jf.fg.success": "32c11c1ef4590041e288ec1c5e34b3214eb9c6b5",
       "jf.fg.warning": "138730cf34c80e5ffd079aff7ffc2658817b5969",
-      "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8",
-      "jf.bg.success.enabled": "16c76a4e7702adebb6497fe4135caf3f61258792",
-      "jf.bg.success.hover": "d7b4fe3d442950ca715087e44bf371ff84e60424",
-      "jf.bg.success.selected": "98b0b5953b7631d374d317272b89ccd1f5075939"
+      "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:3",
@@ -127,12 +122,7 @@
       "foundations/opacity": "source",
       "foundations/layouts": "source",
       "foundations/borders": "source",
-      "utilities": "source",
-      "comps/content-container": "disabled",
-      "comps/sidebar": "disabled",
-      "comps/control": "disabled",
-      "comps/screen/desktop": "disabled",
-      "comps/screen/mobile": "disabled"
+      "utilities": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:4",
@@ -200,10 +190,7 @@
       "jf.fg.accent": "faf058ed06bda92d2e8e85cdcb414d86dc286219",
       "jf.fg.success": "32c11c1ef4590041e288ec1c5e34b3214eb9c6b5",
       "jf.fg.warning": "138730cf34c80e5ffd079aff7ffc2658817b5969",
-      "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8",
-      "jf.bg.success-subtle.enabled": "54db78c711666ec4e2da743df11e999d49f219e6",
-      "jf.bg.success-subtle.hover": "7829e44510f420051bb4c609ebff0ae895c525f1",
-      "jf.bg.success-subtle.selected": "06242d2a8edf78e5424f450c4f4cb60b9f32c3d3"
+      "jf.fg.critical": "05befb9e03411f027e70dda6f179f2d0fba9ced8"
     },
     "group": "themes"
   },
@@ -252,12 +239,7 @@
       "foundations/opacity": "enabled",
       "foundations/layouts": "enabled",
       "foundations/borders": "enabled",
-      "utilities": "enabled",
-      "comps/content-container": "disabled",
-      "comps/sidebar": "disabled",
-      "comps/control": "disabled",
-      "comps/screen/desktop": "disabled",
-      "comps/screen/mobile": "disabled"
+      "utilities": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1177",
     "$figmaModeId": "99:2",
@@ -541,8 +523,7 @@
       "comps/sidebar": "enabled",
       "comps/control": "enabled",
       "comps/content-container": "enabled",
-      "comps/screen/desktop": "enabled",
-      "comps/screen/mobile": "disabled"
+      "comps/screen/desktop": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:223:47",
     "$figmaModeId": "223:0",
@@ -578,7 +559,6 @@
       "foundations/opacity": "source",
       "themes/light": "source",
       "foundations/layouts": "source",
-      "comps/screen/desktop": "disabled",
       "comps/screen/mobile": "enabled"
     },
     "group": "comps",

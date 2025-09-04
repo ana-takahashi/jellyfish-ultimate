@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
     "utilities",
+    "primitives",
     "foundations/animations",
     "foundations/aspectRatios",
     "foundations/borders",
     "foundations/colors",
-    "foundations/dimensions",
     "foundations/grids",
-    "foundations/spacing",
+    "foundations/spacings",
     "foundations/typography",
     "foundations/opacity",
     "foundations/layouts",

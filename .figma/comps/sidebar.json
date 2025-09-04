@@ -2,7 +2,7 @@
   "jf": {
     "sidebar": {
       "max-width": {
-        "value": "{jf.dimension.40x}",
+        "value": "{jf..40x}",
         "type": "sizing"
       }
     }

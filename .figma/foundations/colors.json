@@ -1,59 +1,5 @@
 {
   "jf": {
-    "color": {
-      "accent": {
-        "value": "hsl(247, 87%, 64%)",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "hsl(215, 12%, 39%)",
-        "type": "color"
-      },
-      "success": {
-        "value": "hsl(154, 68%, 53%)",
-        "type": "color"
-      },
-      "warning": {
-        "value": "hsl(53, 68%, 53%)",
-        "type": "color"
-      },
-      "critical": {
-        "value": "hsl(9, 68%, 53%)",
-        "type": "color"
-      },
-      "white": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "dataviz-1": {
-        "value": "hsl(208, 95%, 40%)",
-        "type": "color"
-      },
-      "dataviz-2": {
-        "value": "hsl(188, 70%, 38%)",
-        "type": "color"
-      },
-      "dataviz-3": {
-        "value": "hsl(90, 78%, 46%)",
-        "type": "color"
-      },
-      "dataviz-4": {
-        "value": "hsl(9, 27%, 41%)",
-        "type": "color"
-      },
-      "dataviz-5": {
-        "value": "hsl(73, 26%, 43%)",
-        "type": "color"
-      },
-      "dataviz-6": {
-        "value": "hsl(329, 42%, 61%)",
-        "type": "color"
-      }
-    },
     "palette": {
       "accent": {
         "25": {
@@ -1559,7 +1505,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.75",
+            "value": "{jf.opacity.high}",
             "space": "hsl"
           }
         }

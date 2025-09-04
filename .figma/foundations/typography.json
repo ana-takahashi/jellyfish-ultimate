@@ -3,56 +3,56 @@
     "font-size": {
       "body": {
         "xs": {
-          "value": "0.718rem",
+          "value": "0.75",
           "type": "fontSizes"
         },
         "sm": {
-          "value": "0.875rem",
+          "value": "0.813",
           "type": "fontSizes"
         },
         "md": {
-          "value": "1.0625rem",
+          "value": "0.938rem",
           "type": "fontSizes"
         },
         "lg": {
-          "value": "1.25rem",
+          "value": "1.063rem",
           "type": "fontSizes"
         }
       },
       "h1": {
-        "value": "clamp(1.64rem, 0.58vi + 1.51rem, 2.2rem)",
+        "value": "clamp(1.4016rem, 1.1797rem + 0.9862vw, 1.944rem)",
         "type": "other"
       },
       "h2": {
-        "value": "clamp(1.43rem, 0.42vi + 1.33rem, 1.84rem)",
+        "value": "clamp(1.2458rem, 1.0928rem + 0.6803vw, 1.62rem)",
         "type": "other"
       },
       "h3": {
-        "value": "clamp(1.24rem, 0.3vi + 1.17rem, 1.53rem)",
+        "value": "clamp(1.1074rem, 1.0082rem + 0.4411vw, 1.35rem)",
         "type": "other"
       },
       "h4": {
-        "value": "clamp(1.08rem, 0.2vi + 1.03rem, 1.27rem)",
+        "value": "clamp(0.9844rem, 0.9268rem + 0.2557vw, 1.125rem)",
         "type": "other"
       },
       "h5": {
-        "value": "1.06rem",
-        "type": "other"
+        "value": "0.938rem",
+        "type": "fontSizes"
       },
       "h6": {
-        "value": "0.85rem",
-        "type": "other"
+        "value": "0.813rem",
+        "type": "fontSizes"
       },
       "display3": {
-        "value": "clamp(1.89rem, 0.78vi + 1.71rem, 2.64rem)",
+        "value": "clamp(1.5768rem, 1.2675rem + 1.3746vw, 2.3328rem)",
         "type": "other"
       },
       "display2": {
-        "value": "clamp(2.17rem, 1.03vi + 1.94rem, 3.17rem)",
+        "value": "clamp(1.7739rem, 1.3544rem + 1.8645vw, 2.7994rem)",
         "type": "other"
       },
       "display1": {
-        "value": "clamp(2.49rem, 1.35vi + 2.19rem, 3.81rem)",
+        "value": "clamp(1.9956rem, 1.4378rem + 2.4793vw, 3.3592rem)",
         "type": "other"
       }
     },
@@ -265,7 +265,7 @@
       "paragraph": {
         "value": {
           "fontFamily": "{jf.font-family.body}",
-          "fontSize": "{jf.font-size.body.md}",
+          "fontSize": "{jf.font-size.body.lg}",
           "lineHeight": "{jf.line-height.tall}",
           "letterSpacing": "{jf.letter-spacing.moderate}",
           "paragraphSpacing": "{jf.dimension.4x}",
@@ -275,20 +275,20 @@
       }
     },
     "label": {
-      "sm": {
+      "xs": {
         "value": {
           "fontFamily": "{jf.font-family.body}",
-          "fontSize": "{jf.font-size.body.sm}",
+          "fontSize": "{jf.font-size.body.xs}",
           "lineHeight": "{jf.line-height.tall}",
           "letterSpacing": "{jf.letter-spacing.moderate}",
           "fontWeight": "{jf.font-weight.medium}"
         },
         "type": "typography"
       },
-      "xs": {
+      "sm": {
         "value": {
           "fontFamily": "{jf.font-family.body}",
-          "fontSize": "{jf.font-size.body.xs}",
+          "fontSize": "{jf.font-size.body.sm}",
           "lineHeight": "{jf.line-height.tall}",
           "letterSpacing": "{jf.letter-spacing.moderate}",
           "fontWeight": "{jf.font-weight.medium}"

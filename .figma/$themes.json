@@ -23,8 +23,7 @@
       "primitives": "source",
       "foundations/spacings": "source",
       "foundations/colors": "source",
-      "foundations/sizes": "source",
-      "foundations/z-index": "disabled"
+      "foundations/sizes": "source"
     },
     "$figmaVariableReferences": {
       "jf.bg.surface": "2c5aa9740d9f8fddf37aaaa5b82591cef4b0fcf6",
@@ -123,8 +122,7 @@
       "primitives": "source",
       "foundations/spacings": "source",
       "foundations/colors": "source",
-      "foundations/sizes": "source",
-      "foundations/z-index": "disabled"
+      "foundations/sizes": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:4",
@@ -545,8 +543,7 @@
       "primitives": "source",
       "foundations/spacings": "source",
       "foundations/colors": "source",
-      "foundations/sizes": "source",
-      "foundations/z-index": "disabled"
+      "foundations/sizes": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:223:47",
     "$figmaModeId": "223:0",
@@ -585,8 +582,7 @@
       "primitives": "source",
       "foundations/spacings": "source",
       "foundations/colors": "source",
-      "foundations/sizes": "source",
-      "foundations/z-index": "disabled"
+      "foundations/sizes": "source"
     },
     "group": "comps",
     "$figmaCollectionId": "VariableCollectionId:223:47",

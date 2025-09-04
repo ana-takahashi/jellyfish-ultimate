@@ -11,6 +11,10 @@
         "value": "0.1",
         "type": "number"
       }
+    },
+    "scale": {
+      "value": "8px",
+      "type": "dimension"
     }
   }
 }

@@ -24,93 +24,105 @@
     },
     "container": {
       "pad": {
-        "tight": {
+        "none": {
+          "value": "0",
+          "type": "spacing"
+        },
+        "2xs": {
           "value": "{jf.dimension.1x}",
           "type": "spacing"
         },
-        "narrow": {
+        "xs": {
           "value": "{jf.dimension.1_5x}",
           "type": "spacing"
         },
-        "compact": {
+        "sm": {
           "value": "{jf.dimension.2x}",
           "type": "spacing"
         },
-        "moderate": {
+        "md": {
           "value": "{jf.dimension.3x}",
           "type": "spacing"
         },
-        "wide": {
+        "lg": {
           "value": "{jf.dimension.4x}",
           "type": "spacing"
         }
       },
-      "space": {
+      "gap": {
         "inline": {
-          "tight": {
+          "2xs": {
             "value": "{jf.dimension.0_5x}",
             "type": "spacing"
           },
-          "narrow": {
+          "xs": {
             "value": "{jf.dimension.1x}",
             "type": "spacing"
           },
-          "compact": {
+          "sm": {
             "value": "{jf.dimension.1_5x}",
             "type": "spacing"
           },
-          "moderate": {
+          "md": {
             "value": "{jf.dimension.2x}",
             "type": "spacing"
           },
-          "confortable": {
+          "lg": {
             "value": "{jf.dimension.3x}",
             "type": "spacing"
           },
-          "wide": {
+          "xl": {
             "value": "{jf.dimension.4x}",
             "type": "spacing"
           },
-          "widest": {
+          "2xl": {
             "value": "{jf.dimension.5x}",
             "type": "spacing"
           },
-          "ultrawide": {
+          "3xl": {
             "value": "{jf.dimension.7x}",
+            "type": "spacing"
+          },
+          "none": {
+            "value": "0",
             "type": "spacing"
           }
         },
         "stack": {
-          "tight": {
+          "2xs": {
             "value": "{jf.dimension.0_5x}",
             "type": "spacing"
           },
-          "narrow": {
+          "xs": {
             "value": "{jf.dimension.1x}",
             "type": "spacing"
           },
-          "compact": {
+          "sm": {
             "value": "{jf.dimension.1_5x}",
             "type": "spacing"
           },
-          "moderate": {
+          "md": {
             "value": "{jf.dimension.2x}",
             "type": "spacing"
           },
-          "confortable": {
+          "lg": {
             "value": "{jf.dimension.3x}",
             "type": "spacing"
           },
-          "wide": {
+          "xl": {
             "value": "{jf.dimension.4x}",
             "type": "spacing"
           },
-          "widest": {
+          "2xl": {
             "value": "{jf.dimension.5x}",
             "type": "spacing"
           },
-          "ultrawide": {
+          "3xl": {
             "value": "{jf.dimension.7x}",
+            "type": "spacing"
+          },
+          "none": {
+            "value": "0",
             "type": "spacing"
           }
         }

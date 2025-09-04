@@ -3,26 +3,26 @@
     "control": {
       "height": {
         "sm": {
-          "value": "{jf..4x}",
+          "value": "{jf.dimension.4x}",
           "type": "sizing"
         },
         "md": {
-          "value": "{jf..5x}",
+          "value": "{jf.dimension.5x}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{jf..6_5x}",
+          "value": "{jf.dimension.6_5x}",
           "type": "sizing"
         }
       },
       "space": {
         "x": {
-          "regular": {
-            "value": "{jf.container.pad.narrow}",
+          "default": {
+            "value": "{jf.container.pad.xs}",
             "type": "spacing"
           },
           "wide": {
-            "value": "{jf.container.pad.wide}",
+            "value": "{jf.container.pad.lg}",
             "type": "spacing"
           }
         }

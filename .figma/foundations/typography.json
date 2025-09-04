@@ -3,11 +3,11 @@
     "font-size": {
       "body": {
         "xs": {
-          "value": "0.75",
+          "value": "0.75rem",
           "type": "fontSizes"
         },
         "sm": {
-          "value": "0.813",
+          "value": "0.813rem",
           "type": "fontSizes"
         },
         "md": {

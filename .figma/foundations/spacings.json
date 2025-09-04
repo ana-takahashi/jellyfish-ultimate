@@ -3,7 +3,7 @@
     "text-icon": {
       "space": {
         "inline": {
-          "value": "{jf.dimension.4x}",
+          "value": "{jf.dimension.0_5x}",
           "type": "spacing",
           "description": "Spacing between text and icon"
         },

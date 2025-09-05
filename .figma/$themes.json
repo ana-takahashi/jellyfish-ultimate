@@ -164,7 +164,7 @@
       "jf.bd-color.dataviz-5-soft": "e221978f9865b48c72af586dcb7fd1a0050aefda",
       "jf.bd-color.dataviz-6": "ecbf333a385f85e7714fc60cfaad29c8448f5642",
       "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12",
-      "jf.bd-color.dataviz-4-soft": "2cae703082844c0232ca4d60c998b9ccdb5288c6"
+      "jf.bd-color.dataviz-4-soft": "bede0a9960aaeddcfbb8913d430b200ebe62587d"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:3",
@@ -400,8 +400,6 @@
       "jf.color.success": "667c828f8c9641c7ae814cd51256db6c6e02a2b9",
       "jf.color.warning": "0b29d0a956e26c3cb3cc23d4961271dd1220c0fd",
       "jf.color.critical": "4f6772bae12ac915136513c0981cf623a1724c9f",
-      "jf.color.white": "3faa0a5ee5b12839eaa8c5f46eab6208fdfcc384",
-      "jf.color.black": "975c48caad0052059cff2c1261786babda73e666",
       "jf.color.dataviz-1": "68c1f1731315cbe2552cd388ad76c50ad8fdfe4f",
       "jf.color.dataviz-2": "12384f17d840b4ceea0ba641ebc551d55937a77d",
       "jf.color.dataviz-3": "d8ed56d8047ead62c8d585e4b91c2fd47fd7df47",
@@ -474,6 +472,8 @@
       "jf.bd-width.heavy": "1f7b277793c2bbc103930094728c97864d8621bb",
       "jf.surface.radius.sharp": "05ed085273cb6f52711dc0cfcdcfca232d8352c4",
       "jf.surface.radius.rounded": "4257ba620d58b21f4b699714d4e4b94e09b677ec",
+      "jf.white": "9b187e79df978202a3fbfabc8741501dfb3e4a49",
+      "jf.black": "8a0d08cea687aa4f4841fd0f3fa3e1aa00d3e3b2",
       "jf.palette.accent.25": "48ec1d04f51ce12bd17300cbcf81456da115775f",
       "jf.palette.accent.50": "78d624e922516d1144863dc0acb8dbb64f9ba592",
       "jf.palette.accent.100": "07f0c2498c32bbc3716fc8d19c83ea1b2b8fcb76",

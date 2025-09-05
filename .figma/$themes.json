@@ -160,11 +160,11 @@
       "jf.bd-color.dataviz-3": "05bbd4a1590b9dbac997b81b42ddfced54aa1229",
       "jf.bd-color.dataviz-3-soft": "b33044b2fa69e812357e55245a78039475fa3720",
       "jf.bd-color.dataviz-4": "39e4635ee0577b417cffdf1a9f8c86e0db951138",
+      "jf.bd-color.dataviz-4-soft": "8bf25451c2a134a88dea3e198f718a21236e5915",
       "jf.bd-color.dataviz-5": "2d75d61cebc48375be854e07c3cd71b41c13c148",
       "jf.bd-color.dataviz-5-soft": "e221978f9865b48c72af586dcb7fd1a0050aefda",
       "jf.bd-color.dataviz-6": "ecbf333a385f85e7714fc60cfaad29c8448f5642",
-      "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12",
-      "jf.bd-color.dataviz-4-soft": "17eed56771599f82e740fafbbd9c0070c1c7bce3"
+      "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:3",
@@ -336,8 +336,7 @@
       "jf.bd-color.dataviz-5": "2d75d61cebc48375be854e07c3cd71b41c13c148",
       "jf.bd-color.dataviz-5-soft": "e221978f9865b48c72af586dcb7fd1a0050aefda",
       "jf.bd-color.dataviz-6": "ecbf333a385f85e7714fc60cfaad29c8448f5642",
-      "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12",
-      "jf.bd-color.dataviz-4soft": "f2993718e76cbf25549e92d0d98ddbc0253def49"
+      "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12"
     },
     "group": "themes"
   },

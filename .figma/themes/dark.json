@@ -1306,7 +1306,7 @@
         "value": "{jf.palette.dataviz-4.500}",
         "type": "color"
       },
-      "dataviz-4soft": {
+      "dataviz-4-soft": {
         "value": "{jf.palette.dataviz-4.800}",
         "type": "color"
       },

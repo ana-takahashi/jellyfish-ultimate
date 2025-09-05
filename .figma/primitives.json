@@ -10,47 +10,47 @@
         "type": "color"
       },
       "accent": {
-        "value": "hsl(247, 87%, 64%)",
+        "value": "#6653f3",
         "type": "color"
       },
       "neutral": {
-        "value": "hsl(215, 12%, 39%)",
+        "value": "#58616f",
         "type": "color"
       },
       "success": {
-        "value": "hsl(154, 68%, 53%)",
+        "value": "#36d992",
         "type": "color"
       },
       "warning": {
-        "value": "hsl(53, 68%, 53%)",
+        "value": "#d9c636",
         "type": "color"
       },
       "critical": {
-        "value": "hsl(9, 68%, 53%)",
+        "value": "#d94e36",
         "type": "color"
       },
       "dataviz-1": {
-        "value": "hsl(208, 95%, 40%)",
+        "value": "#056cc7",
         "type": "color"
       },
       "dataviz-2": {
-        "value": "hsl(188, 70%, 38%)",
+        "value": "#1d93a5",
         "type": "color"
       },
       "dataviz-3": {
-        "value": "hsl(90, 78%, 46%)",
+        "value": "#75d11a",
         "type": "color"
       },
       "dataviz-4": {
-        "value": "hsl(9, 27%, 41%)",
+        "value": "#85554c",
         "type": "color"
       },
       "dataviz-5": {
-        "value": "hsl(73, 26%, 43%)",
+        "value": "#7e8a51",
         "type": "color"
       },
       "dataviz-6": {
-        "value": "hsl(329, 42%, 61%)",
+        "value": "#c5729d",
         "type": "color"
       }
     },

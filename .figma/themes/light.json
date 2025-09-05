@@ -1561,16 +1561,6 @@
         "value": "{jf.palette.dataviz-6.600}",
         "type": "color"
       }
-    },
-    "shadow-color": {
-      "accent": {
-        "value": "{jf.palette.accent.500}",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "{jf.color.black}",
-        "type": "color"
-      }
     }
   }
 }

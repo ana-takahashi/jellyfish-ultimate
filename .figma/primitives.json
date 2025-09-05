@@ -1,6 +1,14 @@
 {
   "jf": {
     "color": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
       "accent": {
         "value": "hsl(247, 87%, 64%)",
         "type": "color"

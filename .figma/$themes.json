@@ -164,7 +164,7 @@
       "jf.bd-color.dataviz-5-soft": "e221978f9865b48c72af586dcb7fd1a0050aefda",
       "jf.bd-color.dataviz-6": "ecbf333a385f85e7714fc60cfaad29c8448f5642",
       "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12",
-      "jf.bd-color.dataviz-4-soft": "bede0a9960aaeddcfbb8913d430b200ebe62587d"
+      "jf.bd-color.dataviz-4-soft": "17eed56771599f82e740fafbbd9c0070c1c7bce3"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:3",
@@ -337,7 +337,7 @@
       "jf.bd-color.dataviz-5-soft": "e221978f9865b48c72af586dcb7fd1a0050aefda",
       "jf.bd-color.dataviz-6": "ecbf333a385f85e7714fc60cfaad29c8448f5642",
       "jf.bd-color.dataviz-6-soft": "6ce29eef861c7c579c7237d066b98a716a250c12",
-      "jf.bd-color.dataviz-4soft": "8de1fa4e624dbacbc9f0baa43dd72d5308e0558d"
+      "jf.bd-color.dataviz-4soft": "f2993718e76cbf25549e92d0d98ddbc0253def49"
     },
     "group": "themes"
   },
@@ -395,6 +395,8 @@
       "jf.hover.amount": "64451b03f5f699c3f46991a7281049519609c5f3",
       "jf.selected.amount": "79e4ece317e28c4aeb4fa559f9176bfd150ef984",
       "jf.scale": "2f6e8c69d449558145246b2534acdd27bd008581",
+      "jf.color.white": "b244a495c1a0af4102d048da04341492312abc4b",
+      "jf.color.black": "75ba1f8964a62a475b3bdd45ef331a1ff821ba20",
       "jf.color.accent": "b8ed1fb2f47370ee7e87a81011a4b2476bb0a10d",
       "jf.color.neutral": "9ec78cf514cc891ca49d6baf31fbfd77bde65183",
       "jf.color.success": "667c828f8c9641c7ae814cd51256db6c6e02a2b9",
@@ -472,8 +474,6 @@
       "jf.bd-width.heavy": "1f7b277793c2bbc103930094728c97864d8621bb",
       "jf.surface.radius.sharp": "05ed085273cb6f52711dc0cfcdcfca232d8352c4",
       "jf.surface.radius.rounded": "4257ba620d58b21f4b699714d4e4b94e09b677ec",
-      "jf.white": "9b187e79df978202a3fbfabc8741501dfb3e4a49",
-      "jf.black": "8a0d08cea687aa4f4841fd0f3fa3e1aa00d3e3b2",
       "jf.palette.accent.25": "48ec1d04f51ce12bd17300cbcf81456da115775f",
       "jf.palette.accent.50": "78d624e922516d1144863dc0acb8dbb64f9ba592",
       "jf.palette.accent.100": "07f0c2498c32bbc3716fc8d19c83ea1b2b8fcb76",

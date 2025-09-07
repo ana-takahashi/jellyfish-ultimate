@@ -227,45 +227,103 @@
         "type": "dimension"
       }
     },
+    "space": {
+      "none": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "4xs": {
+        "value": "{jf.dimension.0_25x}",
+        "type": "spacing"
+      },
+      "3xs": {
+        "value": "{jf.dimension.0_5x}",
+        "type": "spacing"
+      },
+      "2xs": {
+        "value": "{jf.dimension.1x}",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{jf.dimension.1_5x}",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{jf.dimension.2x}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{jf.dimension.3x}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{jf.dimension.4x}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{jf.dimension.5x}",
+        "type": "spacing"
+      },
+      "2xl": {
+        "value": "{jf.dimension.7x}",
+        "type": "spacing"
+      },
+      "3xl": {
+        "value": "{jf.dimension.8x}",
+        "type": "spacing"
+      },
+      "g": {
+        "value": "{jf.dimension.9x}",
+        "type": "spacing"
+      },
+      "xg": {
+        "value": "{jf.dimension.12x}",
+        "type": "spacing"
+      },
+      "2xg": {
+        "value": "{jf.dimension.16x}",
+        "type": "spacing"
+      }
+    },
     "z-index": {
       "100": {
-        "value": "100",
+        "value": 100,
         "type": "number"
       },
       "200": {
-        "value": "200",
+        "value": 200,
         "type": "number"
       },
       "300": {
-        "value": "300",
+        "value": 300,
         "type": "number"
       },
       "400": {
-        "value": "400",
+        "value": 400,
         "type": "number"
       },
       "500": {
-        "value": "500",
+        "value": 500,
         "type": "number"
       },
       "600": {
-        "value": "600",
+        "value": 600,
         "type": "number"
       },
       "700": {
-        "value": "700",
+        "value": 700,
         "type": "number"
       },
       "800": {
-        "value": "800",
+        "value": 800,
         "type": "number"
       },
       "900": {
-        "value": "900",
+        "value": 900,
         "type": "number"
       },
       "1000": {
-        "value": "1000",
+        "value": 1000,
         "type": "number"
       }
     }

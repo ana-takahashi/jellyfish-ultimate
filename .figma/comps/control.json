@@ -18,11 +18,11 @@
       "space": {
         "x": {
           "default": {
-            "value": "{jf.container.pad.xs}",
+            "value": "{jf.space.xs}",
             "type": "spacing"
           },
           "wide": {
-            "value": "{jf.container.pad.lg}",
+            "value": "{jf.space.lg}",
             "type": "spacing"
           }
         }

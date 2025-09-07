@@ -3,7 +3,7 @@
     "content-container": {
       "space": {
         "x": {
-          "value": "{jf.container.pad.sm}",
+          "value": "{jf.space.sm}",
           "type": "spacing"
         }
       }

@@ -29,27 +29,27 @@
         "value": "#d94e36",
         "type": "color"
       },
-      "dataviz-1": {
+      "dataviz1": {
         "value": "#056cc7",
         "type": "color"
       },
-      "dataviz-2": {
+      "dataviz2": {
         "value": "#1d93a5",
         "type": "color"
       },
-      "dataviz-3": {
+      "dataviz3": {
         "value": "#75d11a",
         "type": "color"
       },
-      "dataviz-4": {
+      "dataviz4": {
         "value": "#85554c",
         "type": "color"
       },
-      "dataviz-5": {
+      "dataviz5": {
         "value": "#7e8a51",
         "type": "color"
       },
-      "dataviz-6": {
+      "dataviz6": {
         "value": "#c5729d",
         "type": "color"
       }
@@ -287,43 +287,43 @@
     },
     "z-index": {
       "100": {
-        "value": 100,
+        "value": "100",
         "type": "number"
       },
       "200": {
-        "value": 200,
+        "value": "200",
         "type": "number"
       },
       "300": {
-        "value": 300,
+        "value": "300",
         "type": "number"
       },
       "400": {
-        "value": 400,
+        "value": "400",
         "type": "number"
       },
       "500": {
-        "value": 500,
+        "value": "500",
         "type": "number"
       },
       "600": {
-        "value": 600,
+        "value": "600",
         "type": "number"
       },
       "700": {
-        "value": 700,
+        "value": "700",
         "type": "number"
       },
       "800": {
-        "value": 800,
+        "value": "800",
         "type": "number"
       },
       "900": {
-        "value": 900,
+        "value": "900",
         "type": "number"
       },
       "1000": {
-        "value": 1000,
+        "value": "1000",
         "type": "number"
       }
     }

@@ -155,7 +155,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.75",
+                "value": "0.5",
                 "space": "srgb"
               }
             }
@@ -168,7 +168,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.6",
+                "value": "0.45",
                 "space": "srgb"
               }
             }
@@ -181,7 +181,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.18",
+                "value": "0.4",
                 "space": "srgb"
               }
             }
@@ -194,7 +194,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.18",
+                "value": "0.35",
                 "space": "srgb"
               }
             }
@@ -207,7 +207,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.185",
+                "value": "0.3",
                 "space": "srgb"
               }
             }
@@ -220,7 +220,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "lighten",
-                "value": "0.18",
+                "value": "0.25",
                 "space": "srgb"
               }
             }
@@ -276,7 +276,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "0.18",
+                "value": "0.25",
                 "space": "srgb"
               }
             }
@@ -691,9 +691,9 @@
           }
         }
       },
-      "dataviz-1": {
+      "dataviz1": {
         "25": {
-          "value": "{jf.palette.dataviz-1.50}",
+          "value": "{jf.palette.dataviz1.50}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -706,7 +706,7 @@
           }
         },
         "50": {
-          "value": "{jf.palette.dataviz-1.100}",
+          "value": "{jf.palette.dataviz1.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -719,7 +719,7 @@
           }
         },
         "100": {
-          "value": "{jf.palette.dataviz-1.200}",
+          "value": "{jf.palette.dataviz1.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -732,7 +732,7 @@
           }
         },
         "200": {
-          "value": "{jf.palette.dataviz-1.300}",
+          "value": "{jf.palette.dataviz1.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -745,7 +745,7 @@
           }
         },
         "300": {
-          "value": "{jf.palette.dataviz-1.400}",
+          "value": "{jf.palette.dataviz1.400}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -758,7 +758,7 @@
           }
         },
         "400": {
-          "value": "{jf.palette.dataviz-1.500}",
+          "value": "{jf.palette.dataviz1.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -771,11 +771,11 @@
           }
         },
         "500": {
-          "value": "{jf.color.dataviz-1}",
+          "value": "{jf.color.dataviz1}",
           "type": "color"
         },
         "600": {
-          "value": "{jf.palette.dataviz-1.500}",
+          "value": "{jf.palette.dataviz1.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -788,7 +788,7 @@
           }
         },
         "700": {
-          "value": "{jf.palette.dataviz-1.600}",
+          "value": "{jf.palette.dataviz1.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -801,7 +801,7 @@
           }
         },
         "800": {
-          "value": "{jf.palette.dataviz-1.700}",
+          "value": "{jf.palette.dataviz1.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -814,7 +814,7 @@
           }
         },
         "900": {
-          "value": "{jf.palette.dataviz-1.800}",
+          "value": "{jf.palette.dataviz1.800}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -827,9 +827,9 @@
           }
         }
       },
-      "dataviz-2": {
+      "dataviz2": {
         "25": {
-          "value": "{jf.palette.dataviz-2.50}",
+          "value": "{jf.palette.dataviz2.50}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -842,7 +842,7 @@
           }
         },
         "50": {
-          "value": "{jf.palette.dataviz-2.100}",
+          "value": "{jf.palette.dataviz2.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -855,7 +855,7 @@
           }
         },
         "100": {
-          "value": "{jf.palette.dataviz-2.200}",
+          "value": "{jf.palette.dataviz2.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -868,7 +868,7 @@
           }
         },
         "200": {
-          "value": "{jf.palette.dataviz-2.300}",
+          "value": "{jf.palette.dataviz2.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -881,7 +881,7 @@
           }
         },
         "300": {
-          "value": "{jf.palette.dataviz-2.400}",
+          "value": "{jf.palette.dataviz2.400}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -894,7 +894,7 @@
           }
         },
         "400": {
-          "value": "{jf.palette.dataviz-2.500}",
+          "value": "{jf.palette.dataviz2.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -907,11 +907,11 @@
           }
         },
         "500": {
-          "value": "{jf.color.dataviz-2}",
+          "value": "{jf.color.dataviz2}",
           "type": "color"
         },
         "600": {
-          "value": "{jf.palette.dataviz-2.500}",
+          "value": "{jf.palette.dataviz2.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -924,7 +924,7 @@
           }
         },
         "700": {
-          "value": "{jf.palette.dataviz-2.600}",
+          "value": "{jf.palette.dataviz2.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -937,7 +937,7 @@
           }
         },
         "800": {
-          "value": "{jf.palette.dataviz-2.700}",
+          "value": "{jf.palette.dataviz2.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -950,7 +950,7 @@
           }
         },
         "900": {
-          "value": "{jf.palette.dataviz-2.800}",
+          "value": "{jf.palette.dataviz2.800}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -963,9 +963,9 @@
           }
         }
       },
-      "dataviz-3": {
+      "dataviz3": {
         "25": {
-          "value": "{jf.palette.dataviz-3.50}",
+          "value": "{jf.palette.dataviz3.50}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -978,7 +978,7 @@
           }
         },
         "50": {
-          "value": "{jf.palette.dataviz-3.100}",
+          "value": "{jf.palette.dataviz3.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -991,7 +991,7 @@
           }
         },
         "100": {
-          "value": "{jf.palette.dataviz-3.200}",
+          "value": "{jf.palette.dataviz3.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1004,7 +1004,7 @@
           }
         },
         "200": {
-          "value": "{jf.palette.dataviz-3.300}",
+          "value": "{jf.palette.dataviz3.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1017,7 +1017,7 @@
           }
         },
         "300": {
-          "value": "{jf.palette.dataviz-3.400}",
+          "value": "{jf.palette.dataviz3.400}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1030,7 +1030,7 @@
           }
         },
         "400": {
-          "value": "{jf.palette.dataviz-3.500}",
+          "value": "{jf.palette.dataviz3.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1043,11 +1043,11 @@
           }
         },
         "500": {
-          "value": "{jf.color.dataviz-3}",
+          "value": "{jf.color.dataviz3}",
           "type": "color"
         },
         "600": {
-          "value": "{jf.palette.dataviz-3.500}",
+          "value": "{jf.palette.dataviz3.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1060,7 +1060,7 @@
           }
         },
         "700": {
-          "value": "{jf.palette.dataviz-3.600}",
+          "value": "{jf.palette.dataviz3.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1073,7 +1073,7 @@
           }
         },
         "800": {
-          "value": "{jf.palette.dataviz-3.700}",
+          "value": "{jf.palette.dataviz3.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1086,7 +1086,7 @@
           }
         },
         "900": {
-          "value": "{jf.palette.dataviz-3.800}",
+          "value": "{jf.palette.dataviz3.800}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1099,9 +1099,9 @@
           }
         }
       },
-      "dataviz-4": {
+      "dataviz4": {
         "25": {
-          "value": "{jf.palette.dataviz-4.50}",
+          "value": "{jf.palette.dataviz4.50}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1114,7 +1114,7 @@
           }
         },
         "50": {
-          "value": "{jf.palette.dataviz-4.100}",
+          "value": "{jf.palette.dataviz4.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1127,7 +1127,7 @@
           }
         },
         "100": {
-          "value": "{jf.palette.dataviz-4.200}",
+          "value": "{jf.palette.dataviz4.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1140,7 +1140,7 @@
           }
         },
         "200": {
-          "value": "{jf.palette.dataviz-4.300}",
+          "value": "{jf.palette.dataviz4.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1153,7 +1153,7 @@
           }
         },
         "300": {
-          "value": "{jf.palette.dataviz-4.400}",
+          "value": "{jf.palette.dataviz4.400}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1166,7 +1166,7 @@
           }
         },
         "400": {
-          "value": "{jf.palette.dataviz-4.500}",
+          "value": "{jf.palette.dataviz4.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1179,11 +1179,11 @@
           }
         },
         "500": {
-          "value": "{jf.color.dataviz-4}",
+          "value": "{jf.color.dataviz4}",
           "type": "color"
         },
         "600": {
-          "value": "{jf.palette.dataviz-4.500}",
+          "value": "{jf.palette.dataviz4.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1196,7 +1196,7 @@
           }
         },
         "700": {
-          "value": "{jf.palette.dataviz-4.600}",
+          "value": "{jf.palette.dataviz4.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1209,7 +1209,7 @@
           }
         },
         "800": {
-          "value": "{jf.palette.dataviz-4.700}",
+          "value": "{jf.palette.dataviz4.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1222,7 +1222,7 @@
           }
         },
         "900": {
-          "value": "{jf.palette.dataviz-4.800}",
+          "value": "{jf.palette.dataviz4.800}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1235,9 +1235,9 @@
           }
         }
       },
-      "dataviz-5": {
+      "dataviz5": {
         "25": {
-          "value": "{jf.palette.dataviz-5.50}",
+          "value": "{jf.palette.dataviz5.50}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1250,7 +1250,7 @@
           }
         },
         "50": {
-          "value": "{jf.palette.dataviz-5.100}",
+          "value": "{jf.palette.dataviz5.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1263,7 +1263,7 @@
           }
         },
         "100": {
-          "value": "{jf.palette.dataviz-5.200}",
+          "value": "{jf.palette.dataviz5.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1276,7 +1276,7 @@
           }
         },
         "200": {
-          "value": "{jf.palette.dataviz-5.300}",
+          "value": "{jf.palette.dataviz5.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1289,7 +1289,7 @@
           }
         },
         "300": {
-          "value": "{jf.palette.dataviz-5.400}",
+          "value": "{jf.palette.dataviz5.400}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1302,7 +1302,7 @@
           }
         },
         "400": {
-          "value": "{jf.palette.dataviz-5.500}",
+          "value": "{jf.palette.dataviz5.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1315,11 +1315,11 @@
           }
         },
         "500": {
-          "value": "{jf.color.dataviz-5}",
+          "value": "{jf.color.dataviz5}",
           "type": "color"
         },
         "600": {
-          "value": "{jf.palette.dataviz-5.500}",
+          "value": "{jf.palette.dataviz5.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1332,7 +1332,7 @@
           }
         },
         "700": {
-          "value": "{jf.palette.dataviz-5.600}",
+          "value": "{jf.palette.dataviz5.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1345,7 +1345,7 @@
           }
         },
         "800": {
-          "value": "{jf.palette.dataviz-5.700}",
+          "value": "{jf.palette.dataviz5.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1358,7 +1358,7 @@
           }
         },
         "900": {
-          "value": "{jf.palette.dataviz-5.800}",
+          "value": "{jf.palette.dataviz5.800}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1371,9 +1371,9 @@
           }
         }
       },
-      "dataviz-6": {
+      "dataviz6": {
         "25": {
-          "value": "{jf.palette.dataviz-6.50}",
+          "value": "{jf.palette.dataviz6.50}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1386,7 +1386,7 @@
           }
         },
         "50": {
-          "value": "{jf.palette.dataviz-6.100}",
+          "value": "{jf.palette.dataviz6.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1399,7 +1399,7 @@
           }
         },
         "100": {
-          "value": "{jf.palette.dataviz-6.200}",
+          "value": "{jf.palette.dataviz6.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1412,7 +1412,7 @@
           }
         },
         "200": {
-          "value": "{jf.palette.dataviz-6.300}",
+          "value": "{jf.palette.dataviz6.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1425,7 +1425,7 @@
           }
         },
         "300": {
-          "value": "{jf.palette.dataviz-6.400}",
+          "value": "{jf.palette.dataviz6.400}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1438,7 +1438,7 @@
           }
         },
         "400": {
-          "value": "{jf.palette.dataviz-6.500}",
+          "value": "{jf.palette.dataviz6.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1451,11 +1451,11 @@
           }
         },
         "500": {
-          "value": "{jf.color.dataviz-6}",
+          "value": "{jf.color.dataviz6}",
           "type": "color"
         },
         "600": {
-          "value": "{jf.palette.dataviz-6.500}",
+          "value": "{jf.palette.dataviz6.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1468,7 +1468,7 @@
           }
         },
         "700": {
-          "value": "{jf.palette.dataviz-6.600}",
+          "value": "{jf.palette.dataviz6.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1481,7 +1481,7 @@
           }
         },
         "800": {
-          "value": "{jf.palette.dataviz-6.700}",
+          "value": "{jf.palette.dataviz6.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1494,7 +1494,7 @@
           }
         },
         "900": {
-          "value": "{jf.palette.dataviz-6.800}",
+          "value": "{jf.palette.dataviz6.800}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {

@@ -55,10 +55,6 @@
       }
     },
     "dimension": {
-      "140": {
-        "value": "{jf.dimension.1x} * 140",
-        "type": "dimension"
-      },
       "0_125x": {
         "value": "{jf.dimension.1x} * 0.125",
         "type": "dimension"
@@ -224,6 +220,10 @@
       },
       "120x": {
         "value": "{jf.dimension.1x} * 120",
+        "type": "dimension"
+      },
+      "140x": {
+        "value": "{jf.dimension.1x} * 140",
         "type": "dimension"
       }
     },

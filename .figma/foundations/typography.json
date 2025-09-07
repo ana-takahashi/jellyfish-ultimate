@@ -2,6 +2,10 @@
   "jf": {
     "font-size": {
       "body": {
+        "2xs": {
+          "value": "0.625rem",
+          "type": "fontSizes"
+        },
         "xs": {
           "value": "0.75rem",
           "type": "fontSizes"
@@ -108,7 +112,7 @@
         "type": "letterSpacing"
       },
       "wide": {
-        "value": "0.15em",
+        "value": "0.12em",
         "type": "letterSpacing"
       }
     },
@@ -126,7 +130,7 @@
       "value": {
         "fontFamily": "{jf.font-family.body}",
         "fontWeight": "{jf.font-weight.medium}",
-        "fontSize": "{jf.font-size.body.xs}",
+        "fontSize": "{jf.font-size.body.2xs}",
         "lineHeight": "{jf.line-height.short}",
         "letterSpacing": "{jf.letter-spacing.wide}",
         "textCase": "uppercase"

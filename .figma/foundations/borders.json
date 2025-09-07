@@ -63,8 +63,14 @@
           "type": "borderRadius"
         },
         "rounded": {
-          "value": "{jf.radius.2xl}",
-          "type": "borderRadius"
+          "md": {
+            "value": "{jf.radius.xl}",
+            "type": "borderRadius"
+          },
+          "lg": {
+            "value": "{jf.radius.2xl}",
+            "type": "borderRadius"
+          }
         }
       }
     }

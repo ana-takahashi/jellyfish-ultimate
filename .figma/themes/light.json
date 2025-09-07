@@ -1416,7 +1416,7 @@
     },
     "bd-color": {
       "default": {
-        "value": "{jf.palette.neutral.50}",
+        "value": "{jf.palette.neutral.100}",
         "type": "color"
       },
       "inverted": {
@@ -1510,7 +1510,7 @@
         "type": "color"
       },
       "muted": {
-        "value": "{jf.palette.neutral.300}",
+        "value": "{jf.palette.neutral.400}",
         "type": "color"
       },
       "strong": {

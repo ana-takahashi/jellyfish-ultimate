@@ -364,6 +364,17 @@
           },
           "type": "boxShadow"
         }
+      },
+      "focus": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2",
+          "color": "{jf.shadow-color.accent}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "bg": {

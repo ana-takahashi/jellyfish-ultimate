@@ -24,19 +24,19 @@
         }
       },
       "h1": {
-        "value": "clamp(1.4016rem, 1.1797rem + 0.9862vw, 1.944rem)",
+        "value": "clamp(1.4016rem, 1.1797rem + 0.9862vw, 1.75rem)",
         "type": "other"
       },
       "h2": {
-        "value": "clamp(1.2458rem, 1.0928rem + 0.6803vw, 1.62rem)",
+        "value": "clamp(1.2458rem, 1.0928rem + 0.6803vw, 1.375rem)",
         "type": "other"
       },
       "h3": {
-        "value": "clamp(1.1074rem, 1.0082rem + 0.4411vw, 1.35rem)",
+        "value": "clamp(1.1074rem, 1.0082rem + 0.4411vw, 1.1875rem)",
         "type": "other"
       },
       "h4": {
-        "value": "clamp(0.9844rem, 0.9268rem + 0.2557vw, 1.125rem)",
+        "value": "clamp(0.9844rem, 0.9268rem + 0.2557vw, 1.0625rem)",
         "type": "other"
       },
       "h5": {

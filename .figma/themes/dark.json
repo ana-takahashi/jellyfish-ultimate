@@ -366,14 +366,24 @@
         }
       },
       "focus": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "2",
-          "color": "{jf.shadow-color.accent}",
-          "type": "innerShadow"
-        },
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2",
+            "color": "{jf.shadow-color.accent}",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1",
+            "color": "{jf.color.white}",
+            "type": "innerShadow"
+          }
+        ],
         "type": "boxShadow"
       }
     },
@@ -829,6 +839,14 @@
       },
       "dataviz6": {
         "value": "{jf.palette.dataviz6.300}",
+        "type": "color"
+      },
+      "on-neutral": {
+        "value": "{jf.color.white}",
+        "type": "color"
+      },
+      "on-neutral-soft": {
+        "value": "{jf.palette.neutral.100}",
         "type": "color"
       },
       "on-accent": {

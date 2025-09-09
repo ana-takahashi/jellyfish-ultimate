@@ -373,7 +373,7 @@
             "blur": "0",
             "spread": "2",
             "color": "{jf.shadow-color.accent}",
-            "type": "innerShadow"
+            "type": "dropShadow"
           },
           {
             "x": "0",

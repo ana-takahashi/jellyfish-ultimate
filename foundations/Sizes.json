@@ -1,0 +1,95 @@
+{
+  "jf": {
+    "size": {
+      "half": {
+        "value": "50%",
+        "type": "other",
+        "description": "equal to 1/2"
+      },
+      "one_third": {
+        "value": "33.33%",
+        "type": "other",
+        "description": "equal to 1/3"
+      },
+      "two-thirds": {
+        "value": "66.66%",
+        "type": "other",
+        "description": "equal to 2/3"
+      },
+      "quarter": {
+        "value": "25%",
+        "type": "other",
+        "description": "equal to 1/4"
+      },
+      "20pct": {
+        "value": "20%",
+        "type": "other",
+        "description": "equal to 1/5"
+      },
+      "40pct": {
+        "value": "40%",
+        "type": "other",
+        "description": "equal to 2/5"
+      },
+      "60pct": {
+        "value": "60%",
+        "type": "other",
+        "description": "equal to 3/5"
+      },
+      "75pct": {
+        "value": "75%",
+        "type": "other",
+        "description": "equal to 3/4"
+      },
+      "80pct": {
+        "value": "80%",
+        "type": "other",
+        "description": "equal to 3/5"
+      },
+      "full": {
+        "value": "100%",
+        "type": "other"
+      },
+      "max": {
+        "value": "max-content",
+        "type": "other",
+        "description": "Maximum intrinsic size of the content."
+      },
+      "min": {
+        "value": "min-content",
+        "type": "other",
+        "description": "Minimum intrinsic size of the content."
+      },
+      "fit": {
+        "value": "fit-content",
+        "type": "other"
+      },
+      "auto": {
+        "value": "auto",
+        "type": "other"
+      }
+    },
+    "breakpoint": {
+      "sm": {
+        "value": "480px",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "768px",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "1024px",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "1280px",
+        "type": "sizing"
+      },
+      "2xl": {
+        "value": "1536px",
+        "type": "sizing"
+      }
+    }
+  }
+}

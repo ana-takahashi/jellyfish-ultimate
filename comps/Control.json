@@ -1,0 +1,42 @@
+{
+  "jf": {
+    "control": {
+      "height": {
+        "sm": {
+          "value": "{jf.dimension.4x}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{jf.dimension.5x}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{jf.dimension.6_5x}",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "x": {
+          "default": {
+            "value": "{jf.space.xs}",
+            "type": "spacing"
+          },
+          "wide": {
+            "value": "{jf.space.lg}",
+            "type": "spacing"
+          }
+        }
+      },
+      "radius": {
+        "default": {
+          "value": "{jf.radius.md}",
+          "type": "borderRadius"
+        },
+        "circle": {
+          "value": "{jf.radius.circle}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}

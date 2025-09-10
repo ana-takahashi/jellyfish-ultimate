@@ -1,0 +1,60 @@
+{
+  "jf": {
+    "z-index": {
+      "masked": {
+        "value": "{jf.z-index.100}",
+        "type": "number",
+        "description": "For masked layers"
+      },
+      "sticky": {
+        "value": "{jf.z-index.400}",
+        "type": "number",
+        "description": "For sticky elements such as headers or footers that stay fixed while scrolling"
+      },
+      "nav": {
+        "value": "{jf.z-index.500}",
+        "type": "number",
+        "description": "For navigation elements like sidebars or navigation bars"
+      },
+      "toast": {
+        "value": "{jf.z-index.1000}",
+        "type": "number",
+        "description": "For toast notifications that appears above most UI elements"
+      },
+      "overlay": {
+        "value": "{jf.z-index.600}",
+        "type": "number",
+        "description": "For overlays such as modal and drawers backdrops"
+      },
+      "drawer": {
+        "value": "{jf.z-index.700}",
+        "type": "number",
+        "description": "For drawers, such as side panels or sliding menus"
+      },
+      "spinner": {
+        "value": "{jf.z-index.800}",
+        "type": "number"
+      },
+      "base": {
+        "value": "1",
+        "type": "number",
+        "description": "Default layer level"
+      },
+      "deep": {
+        "value": "-9999",
+        "type": "number",
+        "description": "for decorative backgrounds and layers under main content"
+      },
+      "modal": {
+        "value": "{jf.z-index.800}",
+        "type": "number",
+        "description": "For modals that appear above overlays"
+      },
+      "popout": {
+        "value": "{jf.z-index.900}",
+        "type": "number",
+        "description": "Used for popouts, such as dropdowns or menus"
+      }
+    }
+  }
+}

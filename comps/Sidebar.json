@@ -1,0 +1,14 @@
+{
+  "jf": {
+    "sidebar": {
+      "max-width": {
+        "value": "{jf.dimension.40x}",
+        "type": "sizing"
+      },
+      "min-width": {
+        "value": "{jf.dimension.28x}",
+        "type": "sizing"
+      }
+    }
+  }
+}

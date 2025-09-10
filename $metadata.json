@@ -11,6 +11,7 @@
     "foundations/Spacing",
     "foundations/Typography",
     "foundations/Opacity",
+    "foundations/ZIndex",
     "themes/light/BgColors",
     "themes/light/FgColors",
     "themes/light/BorderdColors",

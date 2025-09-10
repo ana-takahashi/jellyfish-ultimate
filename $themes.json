@@ -320,7 +320,7 @@
   },
   {
     "id": "fd9df2bf59bb888de163ee64018795a482a40482",
-    "name": "foundations",
+    "name": "scheme",
     "$figmaStyleReferences": {
       "jf.h1": "S:248c3630a24318a650963bc03274b188d9fd0112,",
       "h1": "S:d459338074b0dd615ea3d38c68674bb45f565f44,",
@@ -662,7 +662,7 @@
       "jf.text-icon.gap.inline": "107974fb80ac59987fb135cf3cb8edf8d04d381f",
       "jf.text-icon.gap.stack": "f9063c14078b79c093b046d406410eb8396f15c0"
     },
-    "group": "core"
+    "group": "Brand"
   },
   {
     "id": "b91b16cb627fc77cc54e719b5b95c69f06ad29e3",

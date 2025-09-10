@@ -52,7 +52,7 @@
       "foundations/Grids": "source",
       "themes/light/BorderdColors": "enabled",
       "foundations/Radius": "source",
-      "Scheme": "source"
+      "Scheme/Brand": "source"
     },
     "$figmaVariableReferences": {
       "jf.bg.surface": "2c5aa9740d9f8fddf37aaaa5b82591cef4b0fcf6",
@@ -205,7 +205,7 @@
       "themes/dark/FgColors": "enabled",
       "themes/dark/BorderColors": "enabled",
       "themes/dark/Shadows": "enabled",
-      "Scheme": "source"
+      "Scheme/Brand": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:4",
@@ -363,7 +363,7 @@
       "foundations/Palettes": "enabled",
       "foundations/Grids": "enabled",
       "foundations/Radius": "enabled",
-      "Scheme": "enabled"
+      "Scheme/Brand": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1177",
     "$figmaModeId": "99:2",
@@ -683,7 +683,7 @@
       "foundations/Radius": "source",
       "comps/Icon": "enabled",
       "comps/Wraper": "enabled",
-      "Scheme": "source"
+      "Scheme/Brand": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:223:47",
     "$figmaModeId": "223:0",

@@ -16,6 +16,78 @@
       "bounce": {
         "value": "bounce 1s infinite",
         "type": "other"
+      },
+      "fade-in": {
+        "value": "fadeIn .5s cubic-bezier(0.165, 0.84, 0.44, 1)",
+        "type": "other"
+      }
+    },
+    "duration": {
+      "instant": {
+        "value": "50",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "fast": {
+        "value": "150",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "normal": {
+        "value": "250",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "slow": {
+        "value": "500",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "extra-slow": {
+        "value": "1500",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "ultra-slow": {
+        "value": "2000",
+        "unit": "ms",
+        "type": "duration"
+      }
+    },
+    "delay": {
+      "none": {
+        "value": "0",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "short": {
+        "value": "50",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "medium": {
+        "value": "150",
+        "unit": "ms",
+        "type": "duration"
+      },
+      "long": {
+        "value": "300",
+        "unit": "ms",
+        "type": "duration"
+      }
+    },
+    "easing": {
+      "ease-in": {
+        "value": "[0.4, 0, 1, 1]",
+        "type": "cubicBezier"
+      },
+      "ease-out": {
+        "value": "[0, 0, 0.2, 1]",
+        "type": "cubicBezier"
+      },
+      "ease-in-out": {
+        "value": "[0.4, 0, 0.2, 1]",
+        "type": "cubicBezier"
       }
     }
   }

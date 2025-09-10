@@ -2,27 +2,31 @@
   "jf": {
     "radius": {
       "sm": {
-        "value": "4px",
+        "value": "round({jf.radius.md} / ({jf.radius.scale-ratio} + 0.33))",
         "type": "borderRadius"
       },
       "md": {
-        "value": "6px",
+        "value": "{jf.radius.base}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "roundTo({jf.radius.md} *1.333)",
+        "value": "round({jf.radius.md} * {jf.radius.scale-ratio})",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "12px",
+        "value": "round({jf.radius.md} * (1.5*{jf.radius.scale-ratio}))",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "20px",
+        "value": "round({jf.radius.md} * (2.5*{jf.radius.scale-ratio}))",
         "type": "borderRadius"
       },
       "3xl": {
-        "value": "32px",
+        "value": "round({jf.radius.md} * (4*{jf.radius.scale-ratio}))",
+        "type": "borderRadius"
+      },
+      "g": {
+        "value": "round({jf.radius.md} * (5*{jf.radius.scale-ratio}))",
         "type": "borderRadius"
       },
       "pill": {

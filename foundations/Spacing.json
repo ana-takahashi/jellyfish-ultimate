@@ -1,7 +1,7 @@
 {
   "jf": {
     "text-icon": {
-      "space": {
+      "gap": {
         "inline": {
           "value": "{jf.dimension.0_5x}",
           "type": "spacing",
@@ -15,7 +15,7 @@
       }
     },
     "label-input": {
-      "space": {
+      "gap": {
         "stack": {
           "value": "{jf.dimension.0_5x}",
           "type": "spacing"

@@ -1,0 +1,94 @@
+{
+  "jf": {
+    "bd-color": {
+      "default": {
+        "value": "{jf.palette.neutral.100}",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "{jf.palette.neutral.900}",
+        "type": "color"
+      },
+      "accent-soft": {
+        "value": "{jf.palette.accent.200}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{jf.palette.accent.500}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{jf.palette.success.500}",
+        "type": "color"
+      },
+      "success-soft": {
+        "value": "{jf.palette.success.200}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{jf.palette.warning.600}",
+        "type": "color"
+      },
+      "warning-soft": {
+        "value": "{jf.palette.warning.200}",
+        "type": "color"
+      },
+      "critical": {
+        "value": "{jf.palette.critical.500}",
+        "type": "color"
+      },
+      "critical-soft": {
+        "value": "{jf.palette.critical.200}",
+        "type": "color"
+      },
+      "dataviz1": {
+        "value": "{jf.palette.dataviz1.500}",
+        "type": "color"
+      },
+      "dataviz1-soft": {
+        "value": "{jf.palette.dataviz1.200}",
+        "type": "color"
+      },
+      "dataviz2": {
+        "value": "{jf.palette.dataviz2.500}",
+        "type": "color"
+      },
+      "dataviz2-soft": {
+        "value": "{jf.palette.dataviz2.200}",
+        "type": "color"
+      },
+      "dataviz3": {
+        "value": "{jf.palette.dataviz3.500}",
+        "type": "color"
+      },
+      "dataviz3-soft": {
+        "value": "{jf.palette.dataviz3.200}",
+        "type": "color"
+      },
+      "dataviz4": {
+        "value": "{jf.palette.dataviz4.500}",
+        "type": "color"
+      },
+      "dataviz4-soft": {
+        "value": "{jf.palette.dataviz4.200}",
+        "type": "color"
+      },
+      "dataviz5": {
+        "value": "{jf.palette.dataviz5.500}",
+        "type": "color"
+      },
+      "dataviz5-soft": {
+        "value": "{jf.palette.dataviz5.200}",
+        "type": "color"
+      },
+      "dataviz6": {
+        "value": "{jf.palette.dataviz6.500}",
+        "type": "color"
+      },
+      "dataviz6-soft": {
+        "value": "{jf.palette.dataviz6.200}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -62,11 +62,11 @@
     },
     "font-family": {
       "heading": {
-        "value": "SF Pro Display",
+        "value": "Work Sans",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "SF Pro Display",
+        "value": "Work Sans",
         "type": "fontFamilies"
       },
       "mono": {
@@ -116,7 +116,7 @@
         "type": "letterSpacing"
       }
     },
-    "font": {
+    "typo": {
       "caption": {
         "value": {
           "fontFamily": "{jf.font-family.body}",

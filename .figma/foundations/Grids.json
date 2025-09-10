@@ -4,62 +4,62 @@
       "cols": {
         "1": {
           "value": "repeat(1, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "1 column"
         },
         "2": {
           "value": "repeat(2, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "2 columns"
         },
         "3": {
           "value": "repeat(3, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "3 columns"
         },
         "4": {
           "value": "repeat(4, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "3 columns"
         },
         "5": {
           "value": "repeat(5, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "5 columns"
         },
         "6": {
           "value": "repeat(6, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "6 columns"
         },
         "7": {
           "value": "repeat(7, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "7 columns"
         },
         "8": {
           "value": "repeat(8, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "8 columns"
         },
         "9": {
           "value": "repeat(9, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "9 columns"
         },
         "10": {
           "value": "repeat(10, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "10 columns"
         },
         "11": {
           "value": "repeat(11, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "11 columns"
         },
         "12": {
           "value": "repeat(12, 1fr)",
-          "type": "other",
+          "type": "column",
           "description": "12 columns"
         }
       },

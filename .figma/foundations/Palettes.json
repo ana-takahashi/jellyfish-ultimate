@@ -1,15 +1,5 @@
 {
   "jf": {
-    "shadow-color": {
-      "accent": {
-        "value": "{jf.palette.accent.500}",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "{jf.color.black}",
-        "type": "color"
-      }
-    },
     "palette": {
       "accent": {
         "25": {
@@ -1504,19 +1494,6 @@
                 "space": "srgb"
               }
             }
-          }
-        }
-      }
-    },
-    "overlay": {
-      "value": "{jf.palette.neutral.900}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "{jf.opacity.high}",
-            "space": "srgb"
           }
         }
       }

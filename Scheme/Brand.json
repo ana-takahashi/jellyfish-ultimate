@@ -434,7 +434,7 @@
         "description": "For navigation elements like sidebars or navigation bars"
       },
       "toast": {
-        "value": "100}",
+        "value": 100,
         "type": "number",
         "description": "For toast notifications that appears above most UI elements"
       },

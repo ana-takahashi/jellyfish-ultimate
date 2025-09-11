@@ -205,8 +205,7 @@
       "themes/dark/FgColors": "enabled",
       "themes/dark/BorderColors": "enabled",
       "themes/dark/Shadows": "enabled",
-      "Scheme/Brand": "source",
-      "themes/light/BorderColors": "disabled"
+      "Scheme/Brand": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1178",
     "$figmaModeId": "99:4",
@@ -364,8 +363,7 @@
       "foundations/Palettes": "enabled",
       "foundations/Grids": "enabled",
       "foundations/Radius": "enabled",
-      "Scheme/Brand": "enabled",
-      "themes/light/BorderColors": "disabled"
+      "Scheme/Brand": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:99:1177",
     "$figmaModeId": "99:2",
@@ -685,13 +683,11 @@
       "foundations/Radius": "source",
       "comps/Icon": "enabled",
       "comps/Wraper": "enabled",
-      "Scheme/Brand": "source",
-      "themes/light/BorderColors": "disabled"
+      "Scheme/Brand": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:223:47",
     "$figmaModeId": "223:0",
     "$figmaVariableReferences": {
-      "jf.wraper.max-width": "e1b4d03976a12b7b21e8366ae9198934b0ac5205",
       "jf.control.height.sm": "230412eadc9aeba14bf1f7eb7c8124c48619194d",
       "jf.control.height.md": "476d4abc929564436ec600aa60fb9e7927135eb5",
       "jf.control.height.lg": "21335cfa579166e91da5e5677086a9c5791c9b95",

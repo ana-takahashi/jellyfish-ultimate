@@ -11,10 +11,12 @@
     "foundations/Spacing",
     "foundations/Typography",
     "foundations/Opacity",
+    "foundations/ZIndex",
     "themes/light/BgColors",
     "themes/light/FgColors",
     "themes/light/BorderColors",
     "themes/light/Shadows",
+    "themes/light/BorderdColors",
     "themes/dark/BgColors",
     "themes/dark/FgColors",
     "themes/dark/BorderColors",
@@ -22,6 +24,7 @@
     "comps/Wraper",
     "comps/Control",
     "comps/Icon",
-    "comps/Sidebar"
+    "comps/Sidebar",
+    "Scheme"
   ]
 }

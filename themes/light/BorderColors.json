@@ -72,22 +72,6 @@
       "dataviz4-soft": {
         "value": "{jf.palette.dataviz4.200}",
         "type": "color"
-      },
-      "dataviz5": {
-        "value": "{jf.palette.dataviz5.500}",
-        "type": "color"
-      },
-      "dataviz5-soft": {
-        "value": "{jf.palette.dataviz5.200}",
-        "type": "color"
-      },
-      "dataviz6": {
-        "value": "{jf.palette.dataviz6.500}",
-        "type": "color"
-      },
-      "dataviz6-soft": {
-        "value": "{jf.palette.dataviz6.200}",
-        "type": "color"
       }
     }
   }

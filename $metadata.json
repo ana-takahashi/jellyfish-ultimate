@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "Scheme/Brand",
+    "scheme/AnaTaka",
     "foundations/Animations",
     "foundations/AspectRatios",
     "foundations/BdWidth",
@@ -10,7 +10,9 @@
     "foundations/Sizes",
     "foundations/Spacing",
     "foundations/Typography",
+    "foundations/Size",
     "foundations/Opacity",
+    "foundations/zIndex",
     "themes/light/BgColors",
     "themes/light/FgColors",
     "themes/light/BorderColors",
@@ -22,7 +24,6 @@
     "comps/Wraper",
     "comps/Control",
     "comps/Icon",
-    "comps/Sidebar",
-    "Scheme"
+    "comps/Sidebar"
   ]
 }

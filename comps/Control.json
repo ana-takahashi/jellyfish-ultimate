@@ -3,22 +3,22 @@
     "control": {
       "height": {
         "sm": {
-          "value": "{jf.dimension.4x}",
+          "value": "{jf.size.4x}",
           "type": "sizing"
         },
         "md": {
-          "value": "{jf.dimension.5x}",
+          "value": "{jf.size.5x}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{jf.dimension.6_5x}",
+          "value": "{jf.size.6_5x}",
           "type": "sizing"
         }
       },
       "space": {
         "x": {
           "default": {
-            "value": "{jf.space.xs}",
+            "value": "{jf.space.2xs}",
             "type": "spacing"
           },
           "wide": {
@@ -36,6 +36,14 @@
           "value": "{jf.radius.circle}",
           "type": "borderRadius"
         }
+      },
+      "sm": {
+        "value": {
+          "height": "{jf.size.4x}",
+          "horizontalPadding": "{jf.space.2xs}",
+          "itemSpacing": "{jf.text-icon.space}"
+        },
+        "type": "composition"
       }
     }
   }

@@ -1,136 +1,69 @@
 {
   "jf": {
     "text-icon": {
-      "gap": {
-        "inline": {
-          "value": "{jf.dimension.0_5x}",
-          "type": "spacing",
-          "description": "Spacing between text and icon"
-        },
-        "stack": {
-          "value": "{jf.dimension.0_5x}",
-          "type": "spacing",
-          "description": "Spacing between text and icon"
-        }
+      "space": {
+        "value": "{jf.space.3xs}",
+        "type": "spacing",
+        "description": "Spacing between text and icon"
       }
     },
     "label-input": {
-      "gap": {
-        "stack": {
-          "value": "{jf.dimension.0_5x}",
-          "type": "spacing"
-        }
-      }
-    },
-    "gap": {
-      "inline": {
-        "3xs": {
-          "value": "{jf.space.3xs}",
-          "type": "spacing"
-        },
-        "2xs": {
-          "value": "{jf.space.2xs}",
-          "type": "spacing"
-        },
-        "xs": {
-          "value": "{jf.space.xs}",
-          "type": "spacing"
-        },
-        "sm": {
-          "value": "{jf.space.sm}",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "{jf.space.md}",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "{jf.space.lg}",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "{jf.space.xl}",
-          "type": "spacing"
-        },
-        "2xl": {
-          "value": "{jf.space.2xl}",
-          "type": "spacing"
-        },
-        "none": {
-          "value": "0",
-          "type": "spacing"
-        }
-      },
-      "stack": {
-        "3xs": {
-          "value": "{jf.space.3xs}",
-          "type": "spacing"
-        },
-        "2xs": {
-          "value": "{jf.space.2xs}",
-          "type": "spacing"
-        },
-        "xs": {
-          "value": "{jf.space.xs}",
-          "type": "spacing"
-        },
-        "sm": {
-          "value": "{jf.space.sm}",
-          "type": "spacing"
-        },
-        "md": {
-          "value": "{jf.space.md}",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "{jf.space.lg}",
-          "type": "spacing"
-        },
-        "xl": {
-          "value": "{jf.space.xl}",
-          "type": "spacing"
-        },
-        "2xl": {
-          "value": "{jf.space.2xl}",
-          "type": "spacing"
-        },
-        "none": {
-          "value": "0",
-          "type": "spacing"
-        }
-      }
-    },
-    "pad": {
-      "3xs": {
+      "space": {
         "value": "{jf.space.3xs}",
+        "type": "spacing"
+      }
+    },
+    "space": {
+      "4xs": {
+        "value": "2px",
+        "type": "spacing"
+      },
+      "3xs": {
+        "value": "4px",
         "type": "spacing"
       },
       "2xs": {
-        "value": "{jf.space.2xs}",
+        "value": "8px",
         "type": "spacing"
       },
       "xs": {
-        "value": "{jf.space.xs}",
+        "value": "12px",
         "type": "spacing"
       },
       "sm": {
-        "value": "{jf.space.sm}",
+        "value": "16px",
         "type": "spacing"
       },
       "md": {
-        "value": "{jf.space.md}",
+        "value": "24px",
         "type": "spacing"
       },
       "lg": {
-        "value": "{jf.space.lg}",
+        "value": "32px",
         "type": "spacing"
       },
       "xl": {
-        "value": "{jf.space.xl}",
+        "value": "40px",
         "type": "spacing"
       },
       "2xl": {
-        "value": "{jf.space.2xl}",
+        "value": "56px",
+        "type": "spacing"
+      },
+      "3xl": {
+        "value": "64px",
+        "type": "spacing"
+      },
+      "g": {
+        "value": "72px",
+        "type": "spacing"
+      },
+      "xg": {
+        "value": "96px",
+        "type": "spacing"
+      },
+      "2xg": {
+        "value": "120px",
         "type": "spacing"
       },
       "none": {
@@ -138,42 +71,20 @@
         "type": "spacing"
       }
     },
-    "margin": {
-      "3xs": {
-        "value": "{jf.space.3xs}",
-        "type": "spacing"
-      },
-      "2xs": {
-        "value": "{jf.space.2xs}",
-        "type": "spacing"
-      },
-      "xs": {
-        "value": "{jf.space.xs}",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "{jf.space.sm}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{jf.space.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{jf.space.lg}",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "{jf.space.xl}",
-        "type": "spacing"
-      },
-      "2xl": {
-        "value": "{jf.space.2xl}",
-        "type": "spacing"
-      },
-      "none": {
-        "value": "0",
-        "type": "spacing"
+    "card": {
+      "space": {
+        "compact": {
+          "value": "{jf.space.xs}",
+          "type": "spacing"
+        },
+        "modereate": {
+          "value": "{jf.space.md}",
+          "type": "spacing"
+        },
+        "wide": {
+          "value": "{jf.space.lg}",
+          "type": "spacing"
+        }
       }
     }
   }

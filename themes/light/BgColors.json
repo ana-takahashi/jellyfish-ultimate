@@ -89,22 +89,6 @@
         "value": "{jf.palette.dataviz4.500}",
         "type": "color"
       },
-      "dataviz5-soft": {
-        "value": "{jf.palette.dataviz5.25}",
-        "type": "color"
-      },
-      "dataviz5": {
-        "value": "{jf.palette.dataviz5.500}",
-        "type": "color"
-      },
-      "dataviz6-soft": {
-        "value": "{jf.palette.dataviz6.25}",
-        "type": "color"
-      },
-      "dataviz6": {
-        "value": "{jf.palette.dataviz6.500}",
-        "type": "color"
-      },
       "overlay": {
         "value": "{jf.color.black}",
         "type": "color",

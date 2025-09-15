@@ -628,17 +628,7 @@
       "jf.bd-color.dataviz3": "84591020aaa72ecdb16b41030a22177052c26436",
       "jf.bd-color.dataviz3-soft": "f69a9c45335e459de497feb566ef017f9d188e77",
       "jf.bd-color.dataviz4": "a2982a126887b37f9c53fe564dad56cd0e6662de",
-      "jf.bd-color.dataviz4-soft": "a2fb2e0061a598c8aba4a48984dd548c8656f84d",
-      "jf.bg.dataviz5-soft": "18f44a23e31b639f32818b33384e7d43f50a22b6",
-      "jf.bg.dataviz5": "e3803da6f7f6e7807b45c0ea2e953b6d0cc7d68e",
-      "jf.bg.dataviz6-soft": "51032f1b5c11521af5d17e0bd824a67e4ff15a3e",
-      "jf.bg.dataviz6": "ff1c71503369189caf6cf52a4c7db012d10b1f8e",
-      "jf.fg.on-dataviz5": "3d261d27d6f4c0fbb2703eb8a2dee9e256c1aaca",
-      "jf.fg.on-dataviz6": "19506d6420b0b9ac7e53c8175333b9138813bccb",
-      "jf.bd-color.dataviz5": "e5814c71ad0f10a520496a448c071d29d8966958",
-      "jf.bd-color.dataviz5-soft": "c927d5efc58991e6360af8213685f4f353e4546f",
-      "jf.bd-color.dataviz6": "66418496b2c08e4521ffcdcea50fb617e0ad0ea8",
-      "jf.bd-color.dataviz6-soft": "a1b5bc7ac274a90294393ab943efc6d20d6bb674"
+      "jf.bd-color.dataviz4-soft": "a2fb2e0061a598c8aba4a48984dd548c8656f84d"
     },
     "group": "03_Themes"
   },

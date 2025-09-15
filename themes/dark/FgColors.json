@@ -120,14 +120,6 @@
       "on-dataviz4-soft": {
         "value": "{jf.palette.dataviz4.200}",
         "type": "color"
-      },
-      "on-dataviz5": {
-        "value": "{jf.color.white}",
-        "type": "color"
-      },
-      "on-dataviz6": {
-        "value": "{jf.color.white}",
-        "type": "color"
       }
     }
   }

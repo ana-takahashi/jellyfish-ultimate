@@ -253,13 +253,13 @@
     },
     "hover": {
       "amount": {
-        "value": 0.05,
+        "value": "0.05",
         "type": "number"
       }
     },
     "selected": {
       "amount": {
-        "value": 0.1,
+        "value": "0.1",
         "type": "number"
       }
     },

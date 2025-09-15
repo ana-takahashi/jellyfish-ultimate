@@ -1,7 +1,7 @@
 {
   "jf": {
     "control": {
-      "height": {
+      "size": {
         "sm": {
           "value": "{jf.size.4x}",
           "type": "sizing"
@@ -18,7 +18,7 @@
       "space": {
         "x": {
           "default": {
-            "value": "{jf.space.2xs}",
+            "value": "{jf.space.xs}",
             "type": "spacing"
           },
           "wide": {
@@ -39,8 +39,24 @@
       },
       "sm": {
         "value": {
-          "height": "{jf.size.4x}",
-          "horizontalPadding": "{jf.space.2xs}",
+          "height": "{jf.control.size.sm}",
+          "horizontalPadding": "{jf.control.space.x.default}",
+          "itemSpacing": "{jf.text-icon.space}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "{jf.control.size.md}",
+          "horizontalPadding": "{jf.control.space.x.default}",
+          "itemSpacing": "{jf.text-icon.space}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{jf.control.size.lg}",
+          "horizontalPadding": "{jf.control.space.x.default}",
           "itemSpacing": "{jf.text-icon.space}"
         },
         "type": "composition"

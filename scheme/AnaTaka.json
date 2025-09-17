@@ -4,182 +4,11 @@
       "base": {
         "value": "8px",
         "type": "dimension"
-      },
-      "0_125x": {
-        "value": "{jf.size.1x} * 0.125",
-        "type": "dimension"
-      },
-      "0_25x": {
-        "value": "{jf.size.1x} * 0.25",
-        "type": "dimension"
-      },
-      "0_5x": {
-        "value": "{jf.size.1x} * 0.5",
-        "type": "dimension"
-      },
-      "0_75x": {
-        "value": "{jf.size.1x} * 0.75",
-        "type": "dimension"
-      },
-      "1x": {
-        "value": "{jf.dimension.base}",
-        "type": "dimension",
-        "description": "Token base para cálculos"
-      },
-      "1_25x": {
-        "value": "{jf.size.1x} *1.25",
-        "type": "dimension",
-        "description": "Token base para cálculos"
-      },
-      "1_5x": {
-        "value": "{jf.size.1x} *1.5",
-        "type": "dimension",
-        "description": "Token base para cálculos"
-      },
-      "2x": {
-        "value": "{jf.size.1x} * 2",
-        "type": "dimension"
-      },
-      "2_25x": {
-        "value": "{jf.size.1x} * 2.25",
-        "type": "dimension"
-      },
-      "2_5x": {
-        "value": "{jf.size.1x} * 2.5",
-        "type": "dimension"
-      },
-      "3x": {
-        "value": "{jf.size.1x} * 3",
-        "type": "dimension"
-      },
-      "3_5x": {
-        "value": "{jf.size.1x} * 3.5",
-        "type": "dimension"
-      },
-      "4x": {
-        "value": "{jf.size.1x} * 4",
-        "type": "dimension"
-      },
-      "4_5x": {
-        "value": "{jf.size.1x} * 4.5",
-        "type": "dimension"
-      },
-      "5x": {
-        "value": "{jf.size.1x} * 5",
-        "type": "dimension"
-      },
-      "5_5x": {
-        "value": "{jf.size.1x} * 5.5",
-        "type": "dimension"
-      },
-      "6x": {
-        "value": "{jf.size.1x} * 6",
-        "type": "dimension"
-      },
-      "6_5x": {
-        "value": "{jf.size.1x} * 6.5",
-        "type": "dimension"
-      },
-      "7x": {
-        "value": "{jf.size.1x} * 7",
-        "type": "dimension"
-      },
-      "8x": {
-        "value": "{jf.size.1x} * 8",
-        "type": "dimension"
-      },
-      "9x": {
-        "value": "{jf.size.1x} * 9",
-        "type": "dimension"
-      },
-      "10x": {
-        "value": "{jf.size.1x} * 10",
-        "type": "dimension"
-      },
-      "12x": {
-        "value": "{jf.size.1x} * 12",
-        "type": "dimension"
-      },
-      "14x": {
-        "value": "{jf.size.1x} * 14",
-        "type": "dimension"
-      },
-      "16x": {
-        "value": "{jf.size.1x} * 16",
-        "type": "dimension"
-      },
-      "20x": {
-        "value": "{jf.size.1x} * 20",
-        "type": "dimension"
-      },
-      "24x": {
-        "value": "{jf.size.1x} * 24",
-        "type": "dimension"
-      },
-      "28x": {
-        "value": "{jf.size.1x} * 28",
-        "type": "dimension"
-      },
-      "32x": {
-        "value": "{jf.size.1x} * 32",
-        "type": "dimension"
-      },
-      "36x": {
-        "value": "{jf.size.1x} * 36",
-        "type": "dimension"
-      },
-      "40x": {
-        "value": "{jf.size.1x} * 40",
-        "type": "dimension"
-      },
-      "44x": {
-        "value": "{jf.size.1x} * 44",
-        "type": "dimension"
-      },
-      "48x": {
-        "value": "{jf.size.1x} * 48",
-        "type": "dimension"
-      },
-      "52x": {
-        "value": "{jf.size.1x} * 52",
-        "type": "dimension"
-      },
-      "56x": {
-        "value": "{jf.size.1x} * 56",
-        "type": "dimension"
-      },
-      "64x": {
-        "value": "{jf.size.1x} * 64",
-        "type": "dimension"
-      },
-      "72x": {
-        "value": "{jf.size.1x} * 72",
-        "type": "dimension"
-      },
-      "80x": {
-        "value": "{jf.size.1x} * 80",
-        "type": "dimension"
-      },
-      "94x": {
-        "value": "{jf.size.1x} * 94",
-        "type": "dimension"
-      },
-      "100x": {
-        "value": "{jf.size.1x} * 100",
-        "type": "dimension"
-      },
-      "120x": {
-        "value": "{jf.size.1x} * 120",
-        "type": "dimension"
-      },
-      "140x": {
-        "value": "{jf.size.1x} * 140",
-        "type": "dimension"
       }
     },
     "font-size": {
       "body": {
-        "2xs": {
+        "xs2": {
           "value": "0.625rem",
           "type": "fontSizes"
         },
@@ -253,13 +82,13 @@
     },
     "hover": {
       "amount": {
-        "value": "0.05",
+        "value": 0.05,
         "type": "number"
       }
     },
     "selected": {
       "amount": {
-        "value": "0.1",
+        "value": 0.1,
         "type": "number"
       }
     },

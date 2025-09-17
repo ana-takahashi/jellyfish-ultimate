@@ -381,7 +381,7 @@
             "blur": "0",
             "spread": "1",
             "color": "{jf.color.white}",
-            "type": "innerShadow"
+            "type": "dropShadow"
           }
         ],
         "type": "boxShadow"

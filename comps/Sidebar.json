@@ -2,11 +2,11 @@
   "jf": {
     "sidebar": {
       "max-width": {
-        "value": "{jf.size.40x}",
+        "value": "{jf.size.x40}",
         "type": "sizing"
       },
       "min-width": {
-        "value": "{jf.size.28x}",
+        "value": "{jf.size.x28}",
         "type": "sizing"
       }
     }

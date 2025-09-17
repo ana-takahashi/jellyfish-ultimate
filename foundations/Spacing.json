@@ -2,27 +2,27 @@
   "jf": {
     "text-icon": {
       "space": {
-        "value": "{jf.space.3xs}",
+        "value": "{jf.space.xs3}",
         "type": "spacing",
         "description": "Spacing between text and icon"
       }
     },
     "label-input": {
       "space": {
-        "value": "{jf.space.3xs}",
+        "value": "{jf.space.xs3}",
         "type": "spacing"
       }
     },
     "space": {
-      "4xs": {
+      "xs4": {
         "value": "2px",
         "type": "spacing"
       },
-      "3xs": {
+      "xs3": {
         "value": "4px",
         "type": "spacing"
       },
-      "2xs": {
+      "xs2": {
         "value": "8px",
         "type": "spacing"
       },
@@ -46,11 +46,11 @@
         "value": "40px",
         "type": "spacing"
       },
-      "2xl": {
+      "xl2": {
         "value": "56px",
         "type": "spacing"
       },
-      "3xl": {
+      "xl3": {
         "value": "64px",
         "type": "spacing"
       },
@@ -62,7 +62,7 @@
         "value": "96px",
         "type": "spacing"
       },
-      "2xg": {
+      "xg2": {
         "value": "120px",
         "type": "spacing"
       },
@@ -71,7 +71,7 @@
         "type": "spacing"
       }
     },
-    "card": {
+    "surface": {
       "space": {
         "compact": {
           "value": "{jf.space.xs}",
@@ -83,6 +83,10 @@
         },
         "wide": {
           "value": "{jf.space.lg}",
+          "type": "spacing"
+        },
+        "narrow": {
+          "value": "{jf.space.xs2}",
           "type": "spacing"
         }
       }

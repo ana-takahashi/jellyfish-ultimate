@@ -1,175 +1,175 @@
 {
   "jf": {
     "size": {
-      "0_125x": {
-        "value": "{jf.size.1x} * 0.125",
+      "x0_125": {
+        "value": "{jf.size.x1}",
         "type": "dimension"
       },
-      "0_25x": {
-        "value": "{jf.size.1x} * 0.25",
+      "x0_25": {
+        "value": "{jf.size.x1} * 0.25",
         "type": "dimension"
       },
-      "0_5x": {
-        "value": "{jf.size.1x} * 0.5",
+      "x0_5": {
+        "value": "{jf.size.x1} * 0.5",
         "type": "dimension"
       },
-      "0_75x": {
-        "value": "{jf.size.1x} * 0.75",
+      "x0_75": {
+        "value": "{jf.size.x1} * 0.75",
         "type": "dimension"
       },
-      "1x": {
+      "x1": {
         "value": "{jf.dimension.base}",
         "type": "dimension",
         "description": "Token base para cálculos"
       },
-      "1_25x": {
-        "value": "{jf.size.1x} *1.25",
+      "x1_25": {
+        "value": "{jf.size.x1} *1.25",
         "type": "dimension",
         "description": "Token base para cálculos"
       },
-      "1_5x": {
-        "value": "{jf.size.1x} *1.5",
+      "x1_5": {
+        "value": "{jf.size.x1} *1.5",
         "type": "dimension",
         "description": "Token base para cálculos"
       },
-      "2x": {
-        "value": "{jf.size.1x} * 2",
+      "x2": {
+        "value": "{jf.size.x1} * 2",
         "type": "dimension"
       },
-      "2_25x": {
-        "value": "{jf.size.1x} * 2.25",
+      "x2_25": {
+        "value": "{jf.size.x1} * 2.25",
         "type": "dimension"
       },
-      "2_5x": {
-        "value": "{jf.size.1x} * 2.5",
+      "x2_5": {
+        "value": "{jf.size.x1} * 2.5",
         "type": "dimension"
       },
-      "3x": {
-        "value": "{jf.size.1x} * 3",
+      "x3": {
+        "value": "{jf.size.x1} * 3",
         "type": "dimension"
       },
-      "3_5x": {
-        "value": "{jf.size.1x} * 3.5",
+      "x3_5": {
+        "value": "{jf.size.x1} * 3.5",
         "type": "dimension"
       },
-      "4x": {
-        "value": "{jf.size.1x} * 4",
+      "x4": {
+        "value": "{jf.size.x1} * 4",
         "type": "dimension"
       },
-      "4_5x": {
-        "value": "{jf.size.1x} * 4.5",
+      "x4_5": {
+        "value": "{jf.size.x1} * 4.5",
         "type": "dimension"
       },
-      "5x": {
-        "value": "{jf.size.1x} * 5",
+      "x5": {
+        "value": "{jf.size.x1} * 5",
         "type": "dimension"
       },
-      "5_5x": {
-        "value": "{jf.size.1x} * 5.5",
+      "x5_5": {
+        "value": "{jf.size.x1} * 5.5",
         "type": "dimension"
       },
-      "6x": {
-        "value": "{jf.size.1x} * 6",
+      "x6": {
+        "value": "{jf.size.x1} * 6",
         "type": "dimension"
       },
-      "6_5x": {
-        "value": "{jf.size.1x} * 6.5",
+      "x6_5": {
+        "value": "{jf.size.x1} * 6.5",
         "type": "dimension"
       },
-      "7x": {
-        "value": "{jf.size.1x} * 7",
+      "x7": {
+        "value": "{jf.size.x1} * 7",
         "type": "dimension"
       },
-      "8x": {
-        "value": "{jf.size.1x} * 8",
+      "x8": {
+        "value": "{jf.size.x1} * 8",
         "type": "dimension"
       },
-      "9x": {
-        "value": "{jf.size.1x} * 9",
+      "x9": {
+        "value": "{jf.size.x1} * 9",
         "type": "dimension"
       },
-      "10x": {
-        "value": "{jf.size.1x} * 10",
+      "x10": {
+        "value": "{jf.size.x1} * 10",
         "type": "dimension"
       },
-      "12x": {
-        "value": "{jf.size.1x} * 12",
+      "x12": {
+        "value": "{jf.size.x1} * 12",
         "type": "dimension"
       },
-      "14x": {
-        "value": "{jf.size.1x} * 14",
+      "x14": {
+        "value": "{jf.size.x1} * 14",
         "type": "dimension"
       },
-      "16x": {
-        "value": "{jf.size.1x} * 16",
+      "x16": {
+        "value": "{jf.size.x1} * 16",
         "type": "dimension"
       },
-      "20x": {
-        "value": "{jf.size.1x} * 20",
+      "x20": {
+        "value": "{jf.size.x1} * 20",
         "type": "dimension"
       },
-      "24x": {
-        "value": "{jf.size.1x} * 24",
+      "x24": {
+        "value": "{jf.size.x1} * 24",
         "type": "dimension"
       },
-      "28x": {
-        "value": "{jf.size.1x} * 28",
+      "x28": {
+        "value": "{jf.size.x1} * 28",
         "type": "dimension"
       },
-      "32x": {
-        "value": "{jf.size.1x} * 32",
+      "x32": {
+        "value": "{jf.size.x1} * 32",
         "type": "dimension"
       },
-      "36x": {
-        "value": "{jf.size.1x} * 36",
+      "x36": {
+        "value": "{jf.size.x1} * 36",
         "type": "dimension"
       },
-      "40x": {
-        "value": "{jf.size.1x} * 40",
+      "x40": {
+        "value": "{jf.size.x1} * 40",
         "type": "dimension"
       },
-      "44x": {
-        "value": "{jf.size.1x} * 44",
+      "x44": {
+        "value": "{jf.size.x1} * 44",
         "type": "dimension"
       },
-      "48x": {
-        "value": "{jf.size.1x} * 48",
+      "x48": {
+        "value": "{jf.size.x1} * 48",
         "type": "dimension"
       },
-      "52x": {
-        "value": "{jf.size.1x} * 52",
+      "x52": {
+        "value": "{jf.size.x1} * 52",
         "type": "dimension"
       },
-      "56x": {
-        "value": "{jf.size.1x} * 56",
+      "x56": {
+        "value": "{jf.size.x1} * 56",
         "type": "dimension"
       },
-      "64x": {
-        "value": "{jf.size.1x} * 64",
+      "x64": {
+        "value": "{jf.size.x1} * 64",
         "type": "dimension"
       },
-      "72x": {
-        "value": "{jf.size.1x} * 72",
+      "x72": {
+        "value": "{jf.size.x1} * 72",
         "type": "dimension"
       },
-      "80x": {
-        "value": "{jf.size.1x} * 80",
+      "x80": {
+        "value": "{jf.size.x1} * 80",
         "type": "dimension"
       },
-      "94x": {
-        "value": "{jf.size.1x} * 94",
+      "x94": {
+        "value": "{jf.size.x1} * 94",
         "type": "dimension"
       },
-      "100x": {
-        "value": "{jf.size.1x} * 100",
+      "x100": {
+        "value": "{jf.size.x1} * 100",
         "type": "dimension"
       },
-      "120x": {
-        "value": "{jf.size.1x} * 120",
+      "x120": {
+        "value": "{jf.size.x1} * 120",
         "type": "dimension"
       },
-      "140x": {
-        "value": "{jf.size.1x} * 140",
+      "x140": {
+        "value": "{jf.size.x1} * 140",
         "type": "dimension"
       }
     }

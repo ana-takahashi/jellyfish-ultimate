@@ -70,17 +70,17 @@
           "description": "No gap between cols."
         },
         "sm": {
-          "value": "{jf.size.2x}",
+          "value": "{jf.size.x2}",
           "type": "spacing",
           "description": "Small gap between cols."
         },
         "md": {
-          "value": "{jf.size.3x}",
+          "value": "{jf.size.x3}",
           "type": "spacing",
           "description": "Medium gap between cols."
         },
         "lg": {
-          "value": "{jf.size.4x}",
+          "value": "{jf.size.x4}",
           "type": "spacing",
           "description": "Large gap between cols."
         }

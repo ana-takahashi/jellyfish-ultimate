@@ -3,15 +3,15 @@
     "control": {
       "size": {
         "sm": {
-          "value": "{jf.size.4x}",
+          "value": "{jf.size.x4}",
           "type": "sizing"
         },
         "md": {
-          "value": "{jf.size.5x}",
+          "value": "{jf.size.x5}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{jf.size.6_5x}",
+          "value": "{jf.size.x6_5}",
           "type": "sizing"
         }
       },

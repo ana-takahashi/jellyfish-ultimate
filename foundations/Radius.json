@@ -17,11 +17,11 @@
         "value": "round({jf.radius.md} * (1.5*{jf.radius.scale-ratio}))",
         "type": "borderRadius"
       },
-      "2xl": {
+      "xl2": {
         "value": "round({jf.radius.md} * (2.5*{jf.radius.scale-ratio}))",
         "type": "borderRadius"
       },
-      "3xl": {
+      "xl3": {
         "value": "round({jf.radius.md} * (4*{jf.radius.scale-ratio}))",
         "type": "borderRadius"
       },
@@ -54,7 +54,7 @@
             "type": "borderRadius"
           },
           "lg": {
-            "value": "{jf.radius.2xl}",
+            "value": "{jf.radius.xl2}",
             "type": "borderRadius"
           }
         }

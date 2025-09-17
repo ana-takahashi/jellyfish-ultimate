@@ -1,32 +1,32 @@
 {
   "jf": {
     "icon": {
-      "2xs": {
-        "value": "{jf.size.2x}",
+      "xs2": {
+        "value": "{jf.size.x2}",
         "type": "sizing"
       },
       "xs": {
-        "value": "{jf.size.2_5x}",
+        "value": "{jf.size.x2_5}",
         "type": "sizing"
       },
       "sm": {
-        "value": "{jf.size.3x}",
+        "value": "{jf.size.x3}",
         "type": "sizing"
       },
       "md": {
-        "value": "{jf.size.4x}",
+        "value": "{jf.size.x4}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{jf.size.5x}",
+        "value": "{jf.size.x5}",
         "type": "sizing"
       },
       "xl": {
-        "value": "{jf.size.6_5x}",
+        "value": "{jf.size.x6_5}",
         "type": "sizing"
       },
-      "2xl": {
-        "value": "{jf.size.8x}",
+      "xl2": {
+        "value": "{jf.size.x8}",
         "type": "sizing"
       }
     }

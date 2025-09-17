@@ -15,7 +15,7 @@
         "value": {
           "fontFamily": "{jf.font-family.body}",
           "fontWeight": "{jf.font-weight.medium}",
-          "fontSize": "{jf.font-size.body.2xs}",
+          "fontSize": "{jf.font-size.body.xs2}",
           "lineHeight": "{jf.line-height.short}",
           "letterSpacing": "{jf.letter-spacing.wide}",
           "textCase": "uppercase"
@@ -95,7 +95,7 @@
           "fontSize": "{jf.font-size.h4}",
           "lineHeight": "{jf.line-height.short}",
           "letterSpacing": "{jf.letter-spacing.moderate}",
-          "paragraphSpacing": "{jf.size.3x}"
+          "paragraphSpacing": "{jf.size.x3}"
         },
         "type": "typography"
       },
@@ -106,7 +106,7 @@
           "fontSize": "{jf.font-size.h5}",
           "lineHeight": "{jf.line-height.moderate}",
           "letterSpacing": "{jf.letter-spacing.moderate}",
-          "paragraphSpacing": "{jf.size.3x}"
+          "paragraphSpacing": "{jf.size.x3}"
         },
         "type": "typography"
       },
@@ -117,7 +117,7 @@
           "fontSize": "{jf.font-size.h6}",
           "lineHeight": "{jf.line-height.moderate}",
           "letterSpacing": "{jf.letter-spacing.moderate}",
-          "paragraphSpacing": "{jf.size.3x}"
+          "paragraphSpacing": "{jf.size.x3}"
         },
         "type": "typography"
       },

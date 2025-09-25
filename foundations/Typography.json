@@ -272,7 +272,7 @@
         "type": "letterSpacing"
       },
       "moderate": {
-        "value": "0.025em",
+        "value": "0.0025em",
         "type": "letterSpacing"
       },
       "wide": {

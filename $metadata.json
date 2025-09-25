@@ -12,6 +12,7 @@
     "foundations/Size",
     "foundations/Opacity",
     "foundations/zIndex",
+    "foundations/Palettes",
     "themes/light/BgColors",
     "themes/light/FgColors",
     "themes/light/BorderColors",
@@ -23,6 +24,8 @@
     "comps/Wraper",
     "comps/Control",
     "comps/Icon",
-    "comps/Sidebar"
+    "comps/Sidebar",
+    "Scheme",
+    "Scheme/Brand"
   ]
 }

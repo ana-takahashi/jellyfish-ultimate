@@ -1,176 +1,265 @@
 {
   "jf": {
+    "breakpoint": {
+      "sm": {
+        "value": "480px",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "768px",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "1024px",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "1280px",
+        "type": "sizing"
+      },
+      "xl2": {
+        "value": "1536px",
+        "type": "sizing"
+      }
+    },
     "size": {
       "x0_125": {
         "value": "{jf.size.x1}",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x0_25": {
         "value": "{jf.size.x1} * 0.25",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x0_5": {
         "value": "{jf.size.x1} * 0.5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x0_75": {
         "value": "{jf.size.x1} * 0.75",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x1": {
-        "value": "{jf.dimension.base}",
-        "type": "dimension",
+        "value": "{jf.size.base}",
+        "type": "sizing",
         "description": "Token base para cálculos"
       },
       "x1_25": {
         "value": "{jf.size.x1} *1.25",
-        "type": "dimension",
+        "type": "sizing",
         "description": "Token base para cálculos"
       },
       "x1_5": {
         "value": "{jf.size.x1} *1.5",
-        "type": "dimension",
+        "type": "sizing",
         "description": "Token base para cálculos"
       },
       "x2": {
         "value": "{jf.size.x1} * 2",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x2_25": {
         "value": "{jf.size.x1} * 2.25",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x2_5": {
         "value": "{jf.size.x1} * 2.5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x3": {
         "value": "{jf.size.x1} * 3",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x3_5": {
         "value": "{jf.size.x1} * 3.5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x4": {
         "value": "{jf.size.x1} * 4",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x4_5": {
         "value": "{jf.size.x1} * 4.5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x5": {
         "value": "{jf.size.x1} * 5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x5_5": {
         "value": "{jf.size.x1} * 5.5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x6": {
         "value": "{jf.size.x1} * 6",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x6_5": {
         "value": "{jf.size.x1} * 6.5",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x7": {
         "value": "{jf.size.x1} * 7",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x8": {
         "value": "{jf.size.x1} * 8",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x9": {
         "value": "{jf.size.x1} * 9",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x10": {
         "value": "{jf.size.x1} * 10",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x12": {
         "value": "{jf.size.x1} * 12",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x14": {
         "value": "{jf.size.x1} * 14",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x16": {
         "value": "{jf.size.x1} * 16",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x20": {
         "value": "{jf.size.x1} * 20",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x24": {
         "value": "{jf.size.x1} * 24",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x28": {
         "value": "{jf.size.x1} * 28",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x32": {
         "value": "{jf.size.x1} * 32",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x36": {
         "value": "{jf.size.x1} * 36",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x40": {
         "value": "{jf.size.x1} * 40",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x44": {
         "value": "{jf.size.x1} * 44",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x48": {
         "value": "{jf.size.x1} * 48",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x52": {
         "value": "{jf.size.x1} * 52",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x56": {
         "value": "{jf.size.x1} * 56",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x64": {
         "value": "{jf.size.x1} * 64",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x72": {
         "value": "{jf.size.x1} * 72",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x80": {
         "value": "{jf.size.x1} * 80",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x94": {
         "value": "{jf.size.x1} * 94",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x100": {
         "value": "{jf.size.x1} * 100",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x120": {
         "value": "{jf.size.x1} * 120",
-        "type": "dimension"
+        "type": "sizing"
       },
       "x140": {
         "value": "{jf.size.x1} * 140",
-        "type": "dimension"
+        "type": "sizing"
+      },
+      "half": {
+        "value": "50%",
+        "type": "other",
+        "description": "equal to 1/2"
+      },
+      "one_third": {
+        "value": "33.33%",
+        "type": "other",
+        "description": "equal to 1/3"
+      },
+      "two-thirds": {
+        "value": "66.66%",
+        "type": "other",
+        "description": "equal to 2/3"
+      },
+      "quarter": {
+        "value": "25%",
+        "type": "other",
+        "description": "equal to 1/4"
+      },
+      "20pct": {
+        "value": "20%",
+        "type": "other",
+        "description": "equal to 1/5"
+      },
+      "40pct": {
+        "value": "40%",
+        "type": "other",
+        "description": "equal to 2/5"
+      },
+      "60pct": {
+        "value": "60%",
+        "type": "other",
+        "description": "equal to 3/5"
+      },
+      "75pct": {
+        "value": "75%",
+        "type": "other",
+        "description": "equal to 3/4"
+      },
+      "80pct": {
+        "value": "80%",
+        "type": "other",
+        "description": "equal to 3/5"
+      },
+      "full": {
+        "value": "100%",
+        "type": "other"
+      },
+      "max": {
+        "value": "max-content",
+        "type": "other",
+        "description": "Maximum intrinsic size of the content."
+      },
+      "min": {
+        "value": "min-content",
+        "type": "other",
+        "description": "Minimum intrinsic size of the content."
+      },
+      "fit": {
+        "value": "fit-content",
+        "type": "other"
+      },
+      "auto": {
+        "value": "auto",
+        "type": "other"
       }
     }
   }

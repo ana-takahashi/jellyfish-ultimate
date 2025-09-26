@@ -132,8 +132,8 @@
       "jf.color.dataviz4": "a5887fdccabd776ff8fcb2cc8596c2227de7ac47",
       "jf.radius.base": "bb6642119d417a8b129dd09f9e93aa02f19e8a3a",
       "jf.radius.scale-ratio": "d10c1d01beff726c704ad1d819ac00784fd4ecce",
-      "jf.dimension.base": "b2ef8e11c249189b6a0f7d18310719edca96f6fe",
-      "jf.font-size.body.xs2": "8bd39f75e620a98933c2d10c2eb7e413e905a598"
+      "jf.font-size.body.xs2": "8bd39f75e620a98933c2d10c2eb7e413e905a598",
+      "jf.size.base": "b2ef8e11c249189b6a0f7d18310719edca96f6fe"
     },
     "group": "01_Scheme"
   },
@@ -171,7 +171,6 @@
       "foundations/BdWidth": "enabled",
       "foundations/Grids": "enabled",
       "foundations/Radius": "enabled",
-      "foundations/Sizes": "enabled",
       "foundations/Spacing": "enabled",
       "foundations/Typography": "enabled",
       "foundations/Size": "enabled",
@@ -344,7 +343,6 @@
       "foundations/BdWidth": "source",
       "foundations/Grids": "source",
       "foundations/Radius": "source",
-      "foundations/Sizes": "source",
       "foundations/Spacing": "source",
       "foundations/Typography": "source",
       "foundations/Size": "source",
@@ -484,7 +482,6 @@
       "foundations/BdWidth": "source",
       "foundations/Grids": "source",
       "foundations/Radius": "source",
-      "foundations/Sizes": "source",
       "foundations/Spacing": "source",
       "foundations/Typography": "source",
       "foundations/Size": "source",
@@ -613,7 +610,6 @@
       "foundations/BdWidth": "source",
       "foundations/Grids": "source",
       "foundations/Radius": "source",
-      "foundations/Sizes": "source",
       "foundations/Spacing": "source",
       "foundations/Typography": "source",
       "foundations/Size": "source",

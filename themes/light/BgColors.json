@@ -9,8 +9,12 @@
         "value": "{jf.palette.neutral.25}",
         "type": "color"
       },
-      "surface-strong": {
+      "surface-moderate": {
         "value": "{jf.palette.neutral.50}",
+        "type": "color"
+      },
+      "surface-strong": {
+        "value": "{jf.palette.neutral.900}",
         "type": "color"
       },
       "surface-inverted": {

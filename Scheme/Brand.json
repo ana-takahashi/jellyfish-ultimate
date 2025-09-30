@@ -1,0 +1,487 @@
+{
+  "jf": {
+    "font-size": {
+      "body": {
+        "2xs": {
+          "value": "0.625rem",
+          "type": "fontSizes"
+        },
+        "xs": {
+          "value": "0.75rem",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "0.813rem",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "0.938rem",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "1.063rem",
+          "type": "fontSizes"
+        }
+      },
+      "h1": {
+        "value": "clamp(1.4016rem, 1.1797rem + 0.9862vw, 1.75rem)",
+        "type": "other"
+      },
+      "h2": {
+        "value": "clamp(1.2458rem, 1.0928rem + 0.6803vw, 1.375rem)",
+        "type": "other"
+      },
+      "h3": {
+        "value": "clamp(1.1074rem, 1.0082rem + 0.4411vw, 1.1875rem)",
+        "type": "other"
+      },
+      "h4": {
+        "value": "clamp(0.9844rem, 0.9268rem + 0.2557vw, 1.0625rem)",
+        "type": "other"
+      },
+      "h5": {
+        "value": "0.938rem",
+        "type": "fontSizes"
+      },
+      "h6": {
+        "value": "0.813rem",
+        "type": "fontSizes"
+      },
+      "display3": {
+        "value": "clamp(1.5768rem, 1.2675rem + 1.3746vw, 2.3328rem)",
+        "type": "other"
+      },
+      "display2": {
+        "value": "clamp(1.7739rem, 1.3544rem + 1.8645vw, 2.7994rem)",
+        "type": "other"
+      },
+      "display1": {
+        "value": "clamp(1.9956rem, 1.4378rem + 2.4793vw, 3.3592rem)",
+        "type": "other"
+      }
+    },
+    "font-family": {
+      "heading": {
+        "value": "Work Sans",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Work Sans",
+        "type": "fontFamilies"
+      },
+      "mono": {
+        "value": "Fira Code",
+        "type": "fontFamilies"
+      }
+    },
+    "font-weight": {
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "short": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "moderate": {
+        "value": "160%",
+        "type": "lineHeights"
+      },
+      "tall": {
+        "value": "180%",
+        "type": "lineHeights"
+      }
+    },
+    "letter-spacing": {
+      "compact": {
+        "value": "-0.05em",
+        "type": "letterSpacing"
+      },
+      "moderate": {
+        "value": "0.025em",
+        "type": "letterSpacing"
+      },
+      "wide": {
+        "value": "0.12em",
+        "type": "letterSpacing"
+      }
+    },
+    "hover": {
+      "amount": {
+        "value": "0.05",
+        "type": "number"
+      }
+    },
+    "selected": {
+      "amount": {
+        "value": "0.1",
+        "type": "number"
+      }
+    },
+    "base": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "color": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "accent": {
+        "value": "#6653f3",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#58616f",
+        "type": "color"
+      },
+      "success": {
+        "value": "#36d992",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#d9c636",
+        "type": "color"
+      },
+      "critical": {
+        "value": "#d94e36",
+        "type": "color"
+      },
+      "dataviz1": {
+        "value": "#056cc7",
+        "type": "color"
+      },
+      "dataviz2": {
+        "value": "#1d93a5",
+        "type": "color"
+      },
+      "dataviz3": {
+        "value": "#75d11a",
+        "type": "color"
+      },
+      "dataviz4": {
+        "value": "#85554c",
+        "type": "color"
+      },
+      "dataviz5": {
+        "value": "#7e8a51",
+        "type": "color"
+      },
+      "dataviz6": {
+        "value": "#c5729d",
+        "type": "color"
+      }
+    },
+    "dimension": {
+      "0_125x": {
+        "value": "{jf.dimension.1x} * 0.125",
+        "type": "dimension"
+      },
+      "0_25x": {
+        "value": "{jf.dimension.1x} * 0.25",
+        "type": "dimension"
+      },
+      "0_5x": {
+        "value": "{jf.dimension.1x} * 0.5",
+        "type": "dimension"
+      },
+      "0_75x": {
+        "value": "{jf.dimension.1x} * 0.75",
+        "type": "dimension"
+      },
+      "1x": {
+        "value": "{jf.base}",
+        "type": "dimension",
+        "description": "Token base para cálculos"
+      },
+      "1_25x": {
+        "value": "{jf.dimension.1x} *1.25",
+        "type": "dimension",
+        "description": "Token base para cálculos"
+      },
+      "1_5x": {
+        "value": "{jf.dimension.1x} *1.5",
+        "type": "dimension",
+        "description": "Token base para cálculos"
+      },
+      "2x": {
+        "value": "{jf.dimension.1x} * 2",
+        "type": "dimension"
+      },
+      "2_25x": {
+        "value": "{jf.dimension.1x} * 2.25",
+        "type": "dimension"
+      },
+      "2_5x": {
+        "value": "{jf.dimension.1x} * 2.5",
+        "type": "dimension"
+      },
+      "3x": {
+        "value": "{jf.dimension.1x} * 3",
+        "type": "dimension"
+      },
+      "3_5x": {
+        "value": "{jf.dimension.1x} * 3.5",
+        "type": "dimension"
+      },
+      "4x": {
+        "value": "{jf.dimension.1x} * 4",
+        "type": "dimension"
+      },
+      "4_5x": {
+        "value": "{jf.dimension.1x} * 4.5",
+        "type": "dimension"
+      },
+      "5x": {
+        "value": "{jf.dimension.1x} * 5",
+        "type": "dimension"
+      },
+      "5_5x": {
+        "value": "{jf.dimension.1x} * 5.5",
+        "type": "dimension"
+      },
+      "6x": {
+        "value": "{jf.dimension.1x} * 6",
+        "type": "dimension"
+      },
+      "6_5x": {
+        "value": "{jf.dimension.1x} * 6.5",
+        "type": "dimension"
+      },
+      "7x": {
+        "value": "{jf.dimension.1x} * 7",
+        "type": "dimension"
+      },
+      "8x": {
+        "value": "{jf.dimension.1x} * 8",
+        "type": "dimension"
+      },
+      "9x": {
+        "value": "{jf.dimension.1x} * 9",
+        "type": "dimension"
+      },
+      "10x": {
+        "value": "{jf.dimension.1x} * 10",
+        "type": "dimension"
+      },
+      "12x": {
+        "value": "{jf.dimension.1x} * 12",
+        "type": "dimension"
+      },
+      "14x": {
+        "value": "{jf.dimension.1x} * 14",
+        "type": "dimension"
+      },
+      "16x": {
+        "value": "{jf.dimension.1x} * 16",
+        "type": "dimension"
+      },
+      "20x": {
+        "value": "{jf.dimension.1x} * 20",
+        "type": "dimension"
+      },
+      "24x": {
+        "value": "{jf.dimension.1x} * 24",
+        "type": "dimension"
+      },
+      "28x": {
+        "value": "{jf.dimension.1x} * 28",
+        "type": "dimension"
+      },
+      "32x": {
+        "value": "{jf.dimension.1x} * 32",
+        "type": "dimension"
+      },
+      "36x": {
+        "value": "{jf.dimension.1x} * 36",
+        "type": "dimension"
+      },
+      "40x": {
+        "value": "{jf.dimension.1x} * 40",
+        "type": "dimension"
+      },
+      "44x": {
+        "value": "{jf.dimension.1x} * 44",
+        "type": "dimension"
+      },
+      "48x": {
+        "value": "{jf.dimension.1x} * 48",
+        "type": "dimension"
+      },
+      "52x": {
+        "value": "{jf.dimension.1x} * 52",
+        "type": "dimension"
+      },
+      "56x": {
+        "value": "{jf.dimension.1x} * 56",
+        "type": "dimension"
+      },
+      "64x": {
+        "value": "{jf.dimension.1x} * 64",
+        "type": "dimension"
+      },
+      "72x": {
+        "value": "{jf.dimension.1x} * 72",
+        "type": "dimension"
+      },
+      "80x": {
+        "value": "{jf.dimension.1x} * 80",
+        "type": "dimension"
+      },
+      "94x": {
+        "value": "{jf.dimension.1x} * 94",
+        "type": "dimension"
+      },
+      "100x": {
+        "value": "{jf.dimension.1x} * 100",
+        "type": "dimension"
+      },
+      "120x": {
+        "value": "{jf.dimension.1x} * 120",
+        "type": "dimension"
+      },
+      "140x": {
+        "value": "{jf.dimension.1x} * 140",
+        "type": "dimension"
+      }
+    },
+    "space": {
+      "none": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "4xs": {
+        "value": "{jf.dimension.0_25x}",
+        "type": "spacing"
+      },
+      "3xs": {
+        "value": "{jf.dimension.0_5x}",
+        "type": "spacing"
+      },
+      "2xs": {
+        "value": "{jf.dimension.1x}",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "{jf.dimension.1_5x}",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{jf.dimension.2x}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{jf.dimension.3x}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{jf.dimension.4x}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{jf.dimension.5x}",
+        "type": "spacing"
+      },
+      "2xl": {
+        "value": "{jf.dimension.7x}",
+        "type": "spacing"
+      },
+      "3xl": {
+        "value": "{jf.dimension.8x}",
+        "type": "spacing"
+      },
+      "g": {
+        "value": "{jf.dimension.9x}",
+        "type": "spacing"
+      },
+      "xg": {
+        "value": "{jf.dimension.12x}",
+        "type": "spacing"
+      },
+      "2xg": {
+        "value": "{jf.dimension.16x}",
+        "type": "spacing"
+      }
+    },
+    "z-index": {
+      "masked": {
+        "value": "100",
+        "type": "number",
+        "description": "For masked layers"
+      },
+      "sticky": {
+        "value": "400",
+        "type": "number",
+        "description": "For sticky elements such as headers or footers that stay fixed while scrolling"
+      },
+      "nav": {
+        "value": "500",
+        "type": "number",
+        "description": "For navigation elements like sidebars or navigation bars"
+      },
+      "toast": {
+        "value": "100",
+        "type": "number",
+        "description": "For toast notifications that appears above most UI elements"
+      },
+      "overlay": {
+        "value": "600",
+        "type": "number",
+        "description": "For overlays such as modal and drawers backdrops"
+      },
+      "drawer": {
+        "value": "700",
+        "type": "number",
+        "description": "For drawers, such as side panels or sliding menus"
+      },
+      "spinner": {
+        "value": "800",
+        "type": "number"
+      },
+      "base": {
+        "value": "1",
+        "type": "number",
+        "description": "Default layer level"
+      },
+      "deep": {
+        "value": "-9999",
+        "type": "number",
+        "description": "for decorative backgrounds and layers under main content"
+      },
+      "modal": {
+        "value": "800",
+        "type": "number",
+        "description": "For modals that appear above overlays"
+      },
+      "popout": {
+        "value": "900",
+        "type": "number",
+        "description": "Used for popouts, such as dropdowns or menus"
+      }
+    },
+    "radius": {
+      "base": {
+        "value": "6",
+        "type": "borderRadius"
+      },
+      "scale-ratio": {
+        "value": "1.33",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

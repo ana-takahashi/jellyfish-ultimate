@@ -9,6 +9,14 @@
         "value": "{jf.palette.neutral.900}",
         "type": "color"
       },
+      "neutral": {
+        "value": "{jf.palette.neutral.900}",
+        "type": "color"
+      },
+      "neutral-soft": {
+        "value": "{jf.palette.neutral.100}",
+        "type": "color"
+      },
       "accent-soft": {
         "value": "{jf.palette.accent.200}",
         "type": "color"

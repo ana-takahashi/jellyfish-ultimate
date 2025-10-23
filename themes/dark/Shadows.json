@@ -1,5 +1,22 @@
 {
   "jf": {
+    "input": {
+      "shadow": {
+        "focus": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "8",
+              "spread": "0",
+              "color": "rgba( {jf.palette.accent.500} ,0.25)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
     "shadow": {
       "neutral": {
         "sm": {

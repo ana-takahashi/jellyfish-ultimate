@@ -20,10 +20,9 @@
     "themes/dark/BorderColors",
     "themes/dark/Shadows",
     "comps/Wraper",
-    "comps/Control",
     "comps/Icon",
     "comps/Sidebar",
-    "Scheme",
-    "Scheme/Brand"
+    "comps/Button",
+    "comps/Input"
   ]
 }

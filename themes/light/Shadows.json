@@ -1,5 +1,22 @@
 {
   "jf": {
+    "input": {
+      "shadow": {
+        "focus": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "8",
+              "spread": "0",
+              "color": "rgba( {jf.palette.accent.500} ,0.25)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
+    },
     "shadow": {
       "neutral": {
         "sm": {
@@ -364,27 +381,6 @@
           },
           "type": "boxShadow"
         }
-      },
-      "focus": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "2",
-            "color": "{jf.palette.accent.500}",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "1",
-            "color": "{jf.color.white}",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
       }
     }
   }

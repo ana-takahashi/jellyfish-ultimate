@@ -1,0 +1,40 @@
+{
+  "jf": {
+    "input": {
+      "h": {
+        "sm": {
+          "value": "{jf.size.x4}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{jf.size.x5_5}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{jf.size.x6_5}",
+          "type": "sizing"
+        }
+      },
+      "w": {
+        "full": {
+          "value": "{jf.size.100pct}",
+          "type": "sizing"
+        }
+      },
+      "px": {
+        "sm": {
+          "value": "{jf.space.md}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{jf.space.md}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{jf.space.md}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

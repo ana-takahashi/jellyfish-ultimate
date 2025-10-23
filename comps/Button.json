@@ -1,0 +1,22 @@
+{
+  "jf": {
+    "button": {
+      "square": {
+        "w": {
+          "sm": {
+            "value": "{jf.size.x4}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{jf.size.x5_5}",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "{jf.size.x6_5}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "jf": {
     "icon": {
-      "xs2": {
+      "2xs": {
         "value": "{jf.size.x2}",
         "type": "sizing"
       },
@@ -25,7 +25,7 @@
         "value": "{jf.size.x6_5}",
         "type": "sizing"
       },
-      "xl2": {
+      "2xl": {
         "value": "{jf.size.x8}",
         "type": "sizing"
       }

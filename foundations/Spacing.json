@@ -1,28 +1,28 @@
 {
   "jf": {
     "text-icon": {
-      "space": {
-        "value": "{jf.space.xs3}",
+      "gap": {
+        "value": "{jf.space.3xs}",
         "type": "spacing",
         "description": "Spacing between text and icon"
       }
     },
     "label-input": {
-      "space": {
-        "value": "{jf.space.xs3}",
+      "gap": {
+        "value": "{jf.space.3xs}",
         "type": "spacing"
       }
     },
     "space": {
-      "xs4": {
+      "4xs": {
         "value": "2px",
         "type": "spacing"
       },
-      "xs3": {
+      "3xs": {
         "value": "4px",
         "type": "spacing"
       },
-      "xs2": {
+      "2xs": {
         "value": "8px",
         "type": "spacing"
       },
@@ -46,11 +46,11 @@
         "value": "40px",
         "type": "spacing"
       },
-      "xl2": {
+      "2xl": {
         "value": "56px",
         "type": "spacing"
       },
-      "xl3": {
+      "3xl": {
         "value": "64px",
         "type": "spacing"
       },
@@ -62,7 +62,7 @@
         "value": "96px",
         "type": "spacing"
       },
-      "xg2": {
+      "2xg": {
         "value": "120px",
         "type": "spacing"
       },
@@ -72,7 +72,7 @@
       }
     },
     "surface": {
-      "space": {
+      "px": {
         "compact": {
           "value": "{jf.space.xs}",
           "type": "spacing"
@@ -86,9 +86,15 @@
           "type": "spacing"
         },
         "narrow": {
-          "value": "{jf.space.xs2}",
+          "value": "{jf.space.2xs}",
           "type": "spacing"
         }
+      }
+    },
+    "form": {
+      "gap": {
+        "value": "{jf.space.sm}",
+        "type": "spacing"
       }
     }
   }
